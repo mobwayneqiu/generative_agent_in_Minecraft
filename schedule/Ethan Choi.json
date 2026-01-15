@@ -1,0 +1,312 @@
+{
+ "schedule": [
+  [
+   "sleeping",
+   300
+  ],
+  [
+   "getting dressed for a jog",
+   10
+  ],
+  [
+   "making a cup of water to bring during the jog",
+   5
+  ],
+  [
+   "putting on jogging shoes and socks",
+   10
+  ],
+  [
+   "heading out for a jog around the neighborhood",
+   30
+  ],
+  [
+   "meditating after returning from the jog to clear his mind",
+   20
+  ],
+  [
+   "making a simple breakfast to fuel up before work",
+   25
+  ],
+  [
+   "quickly reviewing the day's schedule and tasks for the caf\u00e9",
+   10
+  ],
+  [
+   "final preparations before heading out to start his shift at the caf\u00e9",
+   10
+  ],
+  [
+   "Final preparations before heading out to start his shift at the caf\u00e9",
+   0
+  ],
+  [
+   "Arriving at the caf\u00e9 and clocking in for his shift",
+   5
+  ],
+  [
+   "Preparing the coffee station and brewing equipment for the morning rush",
+   10
+  ],
+  [
+   "Reviewing the day's menu specials and making any necessary adjustments",
+   15
+  ],
+  [
+   "Restocking supplies and ensuring all areas of the caf\u00e9 are tidy and organized",
+   20
+  ],
+  [
+   "Preparing for customer arrivals by setting up tables, chairs, and condiments",
+   25
+  ],
+  [
+   "Final checks to ensure everything is ready for a smooth start to the shift",
+   -15
+  ],
+  [
+   "Final checks to ensure everything is ready for a smooth start to the shift",
+   0
+  ],
+  [
+   "Preparing the coffee station and brewing equipment for the morning rush",
+   5
+  ],
+  [
+   "Reviewing the day's menu specials and making any necessary adjustments",
+   10
+  ],
+  [
+   "Restocking supplies and ensuring all areas of the caf\u00e9 are tidy and organized",
+   15
+  ],
+  [
+   "Preparing for customer arrivals by setting up tables, chairs, and condiments",
+   20
+  ],
+  [
+   "Greeting customers and taking orders",
+   30
+  ],
+  [
+   "Crafting specialty drinks with creative flair",
+   35
+  ],
+  [
+   "Experimenting with new menu items and flavors",
+   40
+  ],
+  [
+   "Managing caf\u00e9 operations during peak hours",
+   45
+  ],
+  [
+   "Maintaining a clean and welcoming environment for customers",
+   50
+  ],
+  [
+   "Continuously evaluating customer feedback and making adjustments to menu offerings",
+   55
+  ],
+  [
+   "Finalizing preparations for the lunch service",
+   60
+  ],
+  [
+   "Preparing for a potential rush of customers during the lunch hour",
+   65
+  ],
+  [
+   "Taking a brief moment to review the day's progress and adjust plans as needed",
+   -70
+  ],
+  [
+   "Reviewing the day's sales and customer feedback",
+   5
+  ],
+  [
+   "Checking inventory levels and ordering supplies as needed",
+   10
+  ],
+  [
+   "Updating the caf\u00e9's social media accounts with new content",
+   15
+  ],
+  [
+   "Responding to customer inquiries and resolving any issues",
+   20
+  ],
+  [
+   "Reviewing workshop schedules and planning for upcoming events",
+   25
+  ],
+  [
+   "Checking email and responding to supplier communications",
+   30
+  ],
+  [
+   "Finalizing preparations for the evening's administrative tasks",
+   15
+  ],
+  [
+   "Reviewing inventory levels and ordering supplies as needed.",
+   10
+  ],
+  [
+   "Checking sales figures and analyzing customer feedback.",
+   15
+  ],
+  [
+   "Updating the caf\u00e9's social media accounts with new content.",
+   20
+  ],
+  [
+   "Responding to supplier communications regarding coffee bean sourcing.",
+   25
+  ],
+  [
+   "Finalizing preparations for the evening's administrative tasks.",
+   -10
+  ],
+  [
+   "Counting down the till and reconciling cash transactions.",
+   10
+  ],
+  [
+   "Cleaning and sanitizing equipment in the kitchen area.",
+   15
+  ],
+  [
+   "Reviewing the day's sales figures and updating the caf\u00e9's inventory system.",
+   20
+  ],
+  [
+   "Preparing soil samples for his urban gardening project.",
+   25
+  ],
+  [
+   "Finalizing preparations for the \"Coffee & Community\" fundraiser on April 10th.",
+   -10
+  ],
+  [
+   "Preparing a response to an email inquiry about a potential workshop participant's skills and experience.",
+   5
+  ],
+  [
+   "Reviewing notes from previous mentorship sessions to identify areas where participants need additional support.",
+   10
+  ],
+  [
+   "Creating a list of recommended readings on coffee roasting techniques for the next group of mentees.",
+   15
+  ],
+  [
+   "Brainstorming ideas for a social media campaign to promote the \"Coffee & Community\" fundraiser and encourage online engagement with potential participants.",
+   20
+  ],
+  [
+   "Responding to comments on a previous post about coffee brewing methods, providing feedback and guidance to aspiring baristas.",
+   25
+  ],
+  [
+   "Planning a virtual meeting with a group of mentees to discuss their progress and provide additional support.",
+   30
+  ],
+  [
+   "Developing a series of online tutorials on coffee cupping techniques for the \"Coffee & Community\" fundraiser website.",
+   35
+  ],
+  [
+   "Reviewing and revising the mentorship program's curriculum to ensure it aligns with the goals and objectives of the \"Coffee & Community\" fundraiser.",
+   40
+  ],
+  [
+   "Creating a schedule for online mentoring sessions over the next two weeks, including dedicated time for responding to emails and comments from participants.",
+   45
+  ],
+  [
+   "Finalizing preparations for the \"Coffee & Community\" fundraiser by reviewing the event's website, social media accounts, and promotional materials.",
+   50
+  ],
+  [
+   "Responding to a comment on Instagram about a potential collaboration with another local business, exploring opportunities for cross-promotion and partnership.",
+   55
+  ],
+  [
+   "Developing a plan for evaluating the effectiveness of the mentorship program and making adjustments as needed to improve outcomes.",
+   60
+  ],
+  [
+   "Reviewing and revising the mentorship program's evaluation criteria to ensure it aligns with the goals and objectives of the \"Coffee & Community\" fundraiser.",
+   65
+  ],
+  [
+   "Creating a report on the mentorship program's progress and outcomes for the past quarter, including metrics on participant engagement and retention.",
+   70
+  ],
+  [
+   "Finalizing preparations for the \"Coffee & Community\" fundraiser by reviewing the event's budget, timeline, and logistics.",
+   75
+  ],
+  [
+   "Responding to a comment on Facebook about a potential partnership with a local non-profit organization, exploring opportunities for collaboration and joint programming.",
+   80
+  ],
+  [
+   "Developing a plan for promoting the \"Coffee & Community\" fundraiser through email marketing campaigns and targeted online advertising.",
+   85
+  ],
+  [
+   "Reviewing and revising the mentorship program's promotional materials, including social media graphics, email templates, and website content.",
+   90
+  ],
+  [
+   "Finalizing preparations for the \"Coffee & Community\" fundraiser by reviewing the event's marketing and promotion plan, including social media strategy and online advertising.",
+   95
+  ],
+  [
+   "Responding to a comment on Twitter about a potential collaboration with another local business, exploring opportunities for cross-promotion and partnership.",
+   100
+  ],
+  [
+   "Developing a plan for evaluating the effectiveness of the \"Coffee & Community\" fundraiser's promotional efforts and making adjustments as needed to improve outcomes.",
+   105
+  ],
+  [
+   "Reviewing and revising the mentorship program's evaluation criteria to ensure it aligns with the goals and objectives of the \"Coffee & Community\" fundraiser.",
+   110
+  ],
+  [
+   "Creating a report on the mentorship program's progress and outcomes for the past quarter, including metrics on participant engagement and retention.",
+   115
+  ],
+  [
+   "Finalizing preparations for the \"Coffee & Community\" fundraiser by reviewing the event's budget, timeline, and logistics.",
+   120
+  ],
+  [
+   "Responding to a comment on Instagram about a potential partnership with a local non-profit organization, exploring opportunities for collaboration and joint programming.",
+   125
+  ],
+  [
+   "Developing a plan for promoting the \"Coffee & Community\" fundraiser through email marketing campaigns and targeted online advertising.",
+   130
+  ],
+  [
+   "Reviewing and revising the mentorship program's promotional materials, including social media graphics, email templates, and website content.",
+   135
+  ],
+  [
+   "Finalizing preparations for the \"Coffee & Community\" fundraiser by reviewing the event's marketing and promotion plan, including social media strategy and online advertising.",
+   140
+  ],
+  [
+   "Responding to a comment on Twitter about a potential collaboration with another local business, exploring opportunities for cross-promotion and partnership.",
+   145
+  ],
+  [
+   "Finalizing preparations for the \"Coffee & Community\" fundraiser by reviewing the event's budget, timeline, and logistics.",
+   -1815
+  ]
+ ]
+}

@@ -1,0 +1,957 @@
+游戏内时间: 04:55
+[Ethan Choi] 当前活动: sleeping (04:55)
+[Ethan Choi] 现在正在 Ethan Choi's house ，坐标 [28, -58, -2]
+[Sophia Yang] 当前活动: sleeping (04:55)
+[Sophia Yang] 现在正在 Sophia Yang's house ，坐标 [35, -58, -2]
+
+游戏内时间: 05:00
+[Ethan Choi] 当前活动: putting on running shoes. (05:00)
+[Sophia Yang] 当前活动: sleeping (05:00)
+
+游戏内时间: 05:05
+[Ethan Choi] 当前活动: putting on running shoes. (05:05)
+[Sophia Yang] 当前活动: sleeping (05:05)
+
+游戏内时间: 05:10
+[Ethan Choi] 当前活动: stretching before jogging. (05:10)
+[Sophia Yang] 当前活动: sleeping (05:10)
+
+游戏内时间: 05:15
+[Ethan Choi] 当前活动: stretching before jogging. (05:15)
+[Sophia Yang] 当前活动: sleeping (05:15)
+
+游戏内时间: 05:20
+[Ethan Choi] 当前活动: stretching before jogging. (05:20)
+[Sophia Yang] 当前活动: sleeping (05:20)
+
+游戏内时间: 05:25
+[Ethan Choi] 当前活动: going for a jog around the neighborhood. (05:25)
+[Ethan Choi] 现在正在 park ，坐标 [38, -60, 15]
+[Sophia Yang] 当前活动: sleeping (05:25)
+
+游戏内时间: 05:30
+[Ethan Choi] 当前活动: going for a jog around the neighborhood. (05:30)
+[Sophia Yang] 当前活动: sleeping (05:30)
+
+游戏内时间: 05:35
+[Ethan Choi] 当前活动: going for a jog around the neighborhood. (05:35)
+[Sophia Yang] 当前活动: sleeping (05:35)
+
+游戏内时间: 05:40
+[Ethan Choi] 当前活动: going for a jog around the neighborhood. (05:40)
+[Sophia Yang] 当前活动: sleeping (05:40)
+
+游戏内时间: 05:45
+[Ethan Choi] 当前活动: going for a jog around the neighborhood. (05:45)
+[Sophia Yang] 当前活动: sleeping (05:45)
+
+游戏内时间: 05:50
+[Ethan Choi] 当前活动: going for a jog around the neighborhood. (05:50)
+[Sophia Yang] 当前活动: sleeping (05:50)
+
+游戏内时间: 05:55
+[Ethan Choi] 当前活动: meditating to clear his mind and set intentions for the day. (05:55)
+[Sophia Yang] 当前活动: sleeping (05:55)
+
+游戏内时间: 06:00
+[Ethan Choi] 当前活动: turning on the shower to warm up the water. (06:00)
+[Ethan Choi] 现在正在 Ethan Choi's house ，坐标 [28, -58, -2]
+[Sophia Yang] 当前活动: Waking up and stretching (06:00)
+
+游戏内时间: 06:05
+[Ethan Choi] 当前活动: washing his face and applying a refreshing aftershave balm. (06:05)
+[Sophia Yang] 当前活动: Waking up and stretching (06:05)
+
+游戏内时间: 06:10
+[Ethan Choi] 当前活动: washing his face and applying a refreshing aftershave balm. (06:10)
+[Sophia Yang] 当前活动: Brushing teeth and washing face (06:10)
+
+游戏内时间: 06:15
+[Ethan Choi] 当前活动: brushing his teeth and flossing for oral hygiene. (06:15)
+[Sophia Yang] 当前活动: Brushing teeth and washing face (06:15)
+
+游戏内时间: 06:20
+[Ethan Choi] 当前活动: brushing his teeth and flossing for oral hygiene. (06:20)
+[Sophia Yang] 当前活动: Brushing teeth and washing face (06:20)
+
+游戏内时间: 06:25
+[Ethan Choi] 当前活动: styling his hair using a comb and some light hold gel. (06:25)
+[Sophia Yang] 当前活动: Taking a shower (06:25)
+
+游戏内时间: 06:30
+[Ethan Choi] 当前活动: styling his hair using a comb and some light hold gel. (06:30)
+[Sophia Yang] 当前活动: Taking a shower (06:30)
+
+游戏内时间: 06:35
+[Ethan Choi] 当前活动: styling his hair using a comb and some light hold gel. (06:35)
+[Sophia Yang] 当前活动: Taking a shower (06:35)
+
+游戏内时间: 06:40
+[Ethan Choi] 当前活动: putting on his uniform shirt, apron, and name tag for the café. (06:40)
+[Sophia Yang] 当前活动: Taking a shower (06:40)
+
+游戏内时间: 06:45
+[Ethan Choi] 当前活动: putting on his uniform shirt, apron, and name tag for the café. (06:45)
+[Sophia Yang] 当前活动: Getting dressed for the day (06:45)
+
+游戏内时间: 06:50
+[Ethan Choi] 当前活动: putting on his uniform shirt, apron, and name tag for the café. (06:50)
+[Sophia Yang] 当前活动: Having a glass of water to rehydrate after waking up (06:50)
+
+游戏内时间: 06:55
+[Ethan Choi] 当前活动: putting on his uniform shirt, apron, and name tag for the café. (06:55)
+[Sophia Yang] 当前活动: Having a glass of water to rehydrate after waking up (06:55)
+
+游戏内时间: 07:00
+[Ethan Choi] 当前活动: tying his shoes and making sure his socks are properly aligned. (07:00)
+[Sophia Yang] 当前活动: Having a glass of water to rehydrate after waking up (07:00)
+
+游戏内时间: 07:05
+[Ethan Choi] 当前活动: Turning on the coffee machines and checking their settings. (07:05)
+[Sophia Yang] 当前活动: Brushing teeth (07:05)
+
+游戏内时间: 07:10
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (07:10)
+[Sophia Yang] 当前活动: Brushing teeth (07:10)
+
+游戏内时间: 07:15
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (07:15)
+[Sophia Yang] 当前活动: Washing face and getting ready for the day (07:15)
+
+游戏内时间: 07:20
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (07:20)
+[Sophia Yang] 当前活动: Washing face and getting ready for the day (07:20)
+
+游戏内时间: 07:25
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (07:25)
+[Sophia Yang] 当前活动: Washing face and getting ready for the day (07:25)
+
+游戏内时间: 07:30
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (07:30)
+[Sophia Yang] 当前活动: Getting dressed for the day (07:30)
+
+游戏内时间: 07:35
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (07:35)
+[Sophia Yang] 当前活动: Having a cup of coffee to start the morning (07:35)
+
+游戏内时间: 07:40
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (07:40)
+[Sophia Yang] 当前活动: Having a cup of coffee to start the morning (07:40)
+
+游戏内时间: 07:45
+[Ethan Choi] 当前活动: Preparing for a busy day by reviewing the menu and promotions. (07:45)
+[Sophia Yang] 当前活动: Checking phone and responding to any urgent messages (07:45)
+
+游戏内时间: 07:50
+[Ethan Choi] 当前活动: Preparing for a busy day by reviewing the menu and promotions. (07:50)
+[Sophia Yang] 当前活动: Checking phone and responding to any urgent messages (07:50)
+
+游戏内时间: 07:55
+[Ethan Choi] 当前活动: Finalizing preparations and taking a moment to collect his thoughts before the morning rush. (07:55)
+[Sophia Yang] 当前活动: Checking phone and responding to any urgent messages (07:55)
+
+游戏内时间: 08:00
+[Ethan Choi] 当前活动: Turning on the coffee machines and checking their settings. (08:00)
+[Sophia Yang] 当前活动: Checking phone and responding to any urgent messages was completed before this time slot, so we'll start with: 2) Opening laptop and logging in to creative software (08:00)
+
+游戏内时间: 08:05
+[Ethan Choi] 当前活动: Turning on the coffee machines and checking their settings. (08:05)
+[Sophia Yang] 当前活动: Reviewing daily writing goals and objectives (08:05)
+
+游戏内时间: 08:10
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (08:10)
+[Sophia Yang] 当前活动: Reviewing daily writing goals and objectives (08:10)
+
+游戏内时间: 08:15
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (08:15)
+[Sophia Yang] 当前活动: Checking email for any relevant messages or updates (08:15)
+
+游戏内时间: 08:20
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (08:20)
+[Sophia Yang] 当前活动: Organizing digital files and resources needed for the day's tasks (08:20)
+
+游戏内时间: 08:25
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (08:25)
+[Sophia Yang] 当前活动: Organizing digital files and resources needed for the day's tasks (08:25)
+
+游戏内时间: 08:30
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (08:30)
+[Sophia Yang] 当前活动: Organizing digital files and resources needed for the day's tasks (08:30)
+
+游戏内时间: 08:35
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (08:35)
+[Sophia Yang] 当前活动: Taking a few moments to meditate and focus on the task at hand (08:35)
+
+游戏内时间: 08:40
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (08:40)
+[Sophia Yang] 当前活动: Taking a few moments to meditate and focus on the task at hand (08:40)
+
+游戏内时间: 08:45
+[Ethan Choi] 当前活动: Preparing for a busy day by reviewing the menu and promotions. (08:45)
+[Sophia Yang] 当前活动: Reviewing previous work and making any necessary adjustments before starting new tasks (08:45)
+
+游戏内时间: 08:50
+[Ethan Choi] 当前活动: Preparing for a busy day by reviewing the menu and promotions. (08:50)
+[Sophia Yang] 当前活动: Reviewing previous work and making any necessary adjustments before starting new tasks (08:50)
+
+游戏内时间: 08:55
+[Ethan Choi] 当前活动: Finalizing preparations and taking a moment to collect his thoughts before the morning rush. (08:55)
+[Sophia Yang] 当前活动: Reviewing previous work and making any necessary adjustments before starting new tasks (08:55)
+
+游戏内时间: 09:00
+[Ethan Choi] 当前活动: Turning on the coffee machines and checking their settings. (09:00)
+[Sophia Yang] 当前活动: Reviewing previous work and making any necessary adjustments before starting new tasks was completed before this time slot, so we'll start with: 2) Checking email for any relevant messages or updates (09:00)
+
+游戏内时间: 09:05
+[Ethan Choi] 当前活动: Turning on the coffee machines and checking their settings. (09:05)
+[Sophia Yang] 当前活动: Organizing digital files and resources needed for the day's tasks (09:05)
+
+游戏内时间: 09:10
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (09:10)
+[Ethan Choi] 现在正在 cafe ，坐标 [47, -58, 39]
+[Sophia Yang] 当前活动: Organizing digital files and resources needed for the day's tasks (09:10)
+
+游戏内时间: 09:15
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (09:15)
+[Sophia Yang] 当前活动: Organizing digital files and resources needed for the day's tasks (09:15)
+
+游戏内时间: 09:20
+[Ethan Choi] 当前活动: Restocking syrups, creamers, and other essentials behind the counter. (09:20)
+[Sophia Yang] 当前活动: Brainstorming ideas for a new writing project (09:20)
+
+游戏内时间: 09:25
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (09:25)
+[Sophia Yang] 当前活动: Brainstorming ideas for a new writing project (09:25)
+
+游戏内时间: 09:30
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (09:30)
+[Sophia Yang] 当前活动: Brainstorming ideas for a new writing project (09:30)
+
+游戏内时间: 09:35
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (09:35)
+[Sophia Yang] 当前活动: Brainstorming ideas for a new writing project (09:35)
+
+游戏内时间: 09:40
+[Ethan Choi] 当前活动: Greeting regular customers and starting to take orders. (09:40)
+[Sophia Yang] 当前活动: Brainstorming ideas for a new writing project (09:40)
+
+游戏内时间: 09:45
+[Ethan Choi] 当前活动: Preparing for a busy day by reviewing the menu and promotions. (09:45)
+[Sophia Yang] 当前活动: Brainstorming ideas for a new writing project (09:45)
+
+游戏内时间: 09:50
+[Ethan Choi] 当前活动: Preparing for a busy day by reviewing the menu and promotions. (09:50)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (09:50)
+
+游戏内时间: 09:55
+[Ethan Choi] 当前活动: Finalizing preparations and taking a moment to collect his thoughts before the morning rush. (09:55)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (09:55)
+
+游戏内时间: 10:00
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile. (10:00)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (10:00)
+
+游戏内时间: 10:05
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile. (10:05)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (10:05)
+
+游戏内时间: 10:10
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile. (10:10)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (10:10)
+
+游戏内时间: 10:15
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile. (10:15)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (10:15)
+
+游戏内时间: 10:20
+[Ethan Choi] 当前活动: Preparing drinks according to customer requests, including lattes and cappuccinos. (10:20)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (10:20)
+
+游戏内时间: 10:25
+[Ethan Choi] 当前活动: Preparing drinks according to customer requests, including lattes and cappuccinos. (10:25)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (10:25)
+
+游戏内时间: 10:30
+[Ethan Choi] 当前活动: Preparing drinks according to customer requests, including lattes and cappuccinos. (10:30)
+[Sophia Yang] 当前活动: Outlining the structure of an upcoming article (10:30)
+
+游戏内时间: 10:35
+[Ethan Choi] 当前活动: Preparing drinks according to customer requests, including lattes and cappuccinos. (10:35)
+[Sophia Yang] 当前活动: Writing the first draft of a section (10:35)
+
+游戏内时间: 10:40
+[Ethan Choi] 当前活动: Preparing drinks according to customer requests, including lattes and cappuccinos. (10:40)
+[Sophia Yang] 当前活动: Writing the first draft of a section (10:40)
+
+游戏内时间: 10:45
+[Ethan Choi] 当前活动: Preparing drinks according to customer requests, including lattes and cappuccinos. (10:45)
+[Sophia Yang] 当前活动: Writing the first draft of a section (10:45)
+
+游戏内时间: 10:50
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently. (10:50)
+[Sophia Yang] 当前活动: Writing the first draft of a section (10:50)
+
+游戏内时间: 10:55
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently. (10:55)
+[Sophia Yang] 当前活动: Writing the first draft of a section (10:55)
+
+游戏内时间: 11:00
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently. (11:00)
+[Sophia Yang] 当前活动: Writing the first draft of a section (11:00)
+
+游戏内时间: 11:05
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently. (11:05)
+[Sophia Yang] 当前活动: Writing the first draft of a section (11:05)
+
+游戏内时间: 11:10
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently. (11:10)
+[Sophia Yang] 当前活动: Writing the first draft of a section (11:10)
+
+游戏内时间: 11:15
+[Ethan Choi] 当前活动: Maintaining a clean and organized workspace, wiping down surfaces as needed. (11:15)
+[Sophia Yang] 当前活动: Writing the first draft of a section (11:15)
+
+游戏内时间: 11:20
+[Ethan Choi] 当前活动: Maintaining a clean and organized workspace, wiping down surfaces as needed. (11:20)
+[Ethan Choi] 现在正在 Ethan Choi's house ，坐标 [28, -58, -2]
+[Sophia Yang] 当前活动: Writing the first draft of a section (11:20)
+
+游戏内时间: 11:25
+[Ethan Choi] 当前活动: Maintaining a clean and organized workspace, wiping down surfaces as needed. (11:25)
+[Sophia Yang] 当前活动: Writing the first draft of a section (11:25)
+
+游戏内时间: 11:30
+[Ethan Choi] 当前活动: Maintaining a clean and organized workspace, wiping down surfaces as needed. (11:30)
+[Sophia Yang] 当前活动: Writing the first draft of a section (11:30)
+
+游戏内时间: 11:35
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:35)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:35)
+
+游戏内时间: 11:40
+[Sophia Yang] 当前活动: Writing the first draft of a section (11:30)
+
+游戏内时间: 11:35
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:35)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:35)
+
+游戏内时间: 11:40
+
+游戏内时间: 11:35
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:35)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:35)
+
+游戏内时间: 11:40
+游戏内时间: 11:35
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:35)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:35)
+
+游戏内时间: 11:40
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:35)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:35)
+
+游戏内时间: 11:40
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:40)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:35)
+
+游戏内时间: 11:40
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:40)
+游戏内时间: 11:40
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:40)
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:40)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:40)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:40)
+
+游戏内时间: 11:45
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:45)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:45)
+
+游戏内时间: 11:50
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:50)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:50)
+
+游戏内时间: 11:55
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (11:55)
+[Sophia Yang] 当前活动: Reviewing and editing the written content for clarity and coherence (11:55)
+
+游戏内时间: 12:00
+[Ethan Choi] 当前活动: Engaging with regular customers and building relationships through small talk and recommendations. (12:00)
+[Sophia Yang] 当前活动: Getting up from desk to stretch and move around (12:00)
+
+游戏内时间: 12:05
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally. (12:05)
+[Sophia Yang] 当前活动: Making a sandwich or salad for lunch (12:05)
+
+游戏内时间: 12:10
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally. (12:10)
+[Sophia Yang] 当前活动: Making a sandwich or salad for lunch (12:10)
+
+游戏内时间: 12:15
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally. (12:15)
+[Sophia Yang] 当前活动: Making a sandwich or salad for lunch (12:15)
+
+游戏内时间: 12:20
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally. (12:20)
+[Sophia Yang] 当前活动: Eating lunch while taking short breaks to scroll through social media or check email (12:20)
+
+游戏内时间: 12:25
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally. (12:25)
+[Sophia Yang] 当前活动: Eating lunch while taking short breaks to scroll through social media or check email (12:25)
+
+游戏内时间: 12:30
+[Ethan Choi] 当前活动: Preparing for the lunch rush by restocking supplies and anticipating high-demand items. (12:30)
+[Sophia Yang] 当前活动: Eating lunch while taking short breaks to scroll through social media or check email (12:30)
+
+游戏内时间: 12:35
+[Ethan Choi] 当前活动: Preparing for the lunch rush by restocking supplies and anticipating high-demand items. (12:35)
+[Sophia Yang] 当前活动: Eating lunch while taking short breaks to scroll through social media or check email (12:35)
+
+游戏内时间: 12:40
+[Ethan Choi] 当前活动: Preparing for the lunch rush by restocking supplies and anticipating high-demand items. (12:40)
+[Sophia Yang] 当前活动: Taking a short walk outside to get some fresh air and clear her mind (12:40)
+
+游戏内时间: 12:45
+[Ethan Choi] 当前活动: Preparing for the lunch rush by restocking supplies and anticipating high-demand items. (12:45)
+[Sophia Yang] 当前活动: Taking a short walk outside to get some fresh air and clear her mind (12:45)
+
+游戏内时间: 12:50
+[Ethan Choi] 当前活动: Taking a short break to stretch and recharge before the next wave of customers arrives. (12:50)
+[Sophia Yang] 当前活动: Reviewing schedule for the rest of the day and making any necessary adjustments (12:50)
+
+游戏内时间: 12:55
+[Ethan Choi] 当前活动: Taking a short break to stretch and recharge before the next wave of customers arrives. (12:55)
+[Sophia Yang] 当前活动: Reviewing schedule for the rest of the day and making any necessary adjustments (12:55)
+
+游戏内时间: 13:00
+[Ethan Choi] 当前活动: Taking a short break to stretch and recharge before the next wave of customers arrives. (13:00)
+[Sophia Yang] 当前活动: Checking and responding to urgent emails that require immediate attention (13:00)
+
+游戏内时间: 13:05
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile, maintaining a positive attitude. (13:05)
+[Sophia Yang] 当前活动: Checking and responding to urgent emails that require immediate attention (13:05)
+
+游戏内时间: 13:10
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile, maintaining a positive attitude. (13:10)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:10)
+
+游戏内时间: 13:15
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile, maintaining a positive attitude. (13:15)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:15)
+
+游戏内时间: 13:20
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile, maintaining a positive attitude. (13:20)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:20)
+
+游戏内时间: 13:25
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile, maintaining a positive attitude. (13:25)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:25)
+
+游戏内时间: 13:30
+[Ethan Choi] 当前活动: Continuing to take orders and serve customers with a smile, maintaining a positive attitude. (13:30)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:30)
+
+游戏内时间: 13:35
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently during the lunch rush. (13:35)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:35)
+
+游戏内时间: 13:40
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently during the lunch rush. (13:40)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:40)
+
+游戏内时间: 13:45
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently during the lunch rush. (13:45)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:45)
+
+游戏内时间: 13:50
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently during the lunch rush. (13:50)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:50)
+
+游戏内时间: 13:55
+[Ethan Choi] 当前活动: Managing cash transactions and processing credit card payments efficiently during the lunch rush. (13:55)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (13:55)
+
+游戏内时间: 14:00
+[Ethan Choi] 当前活动: Maintaining a clean and organized workspace, wiping down surfaces as needed during the lunch rush. (14:00)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (14:00)
+
+游戏内时间: 14:05
+[Ethan Choi] 当前活动: Maintaining a clean and organized workspace, wiping down surfaces as needed during the lunch rush. (14:05)
+[Sophia Yang] 当前活动: Writing a new article about social change initiatives (14:05)
+
+游戏内时间: 14:10
+[Ethan Choi] 当前活动: Maintaining a clean and organized workspace, wiping down surfaces as needed during the lunch rush. (14:10)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:10)
+
+游戏内时间: 14:15
+[Ethan Choi] 当前活动: Maintaining a clean and organized workspace, wiping down surfaces as needed during the lunch rush. (14:15)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:15)
+
+游戏内时间: 14:20
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally during the lunch rush. (14:20)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:20)
+
+游戏内时间: 14:25
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally during the lunch rush. (14:25)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:25)
+
+游戏内时间: 14:30
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally during the lunch rush. (14:30)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:30)
+
+游戏内时间: 14:35
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally during the lunch rush. (14:35)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:35)
+
+游戏内时间: 14:40
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally during the lunch rush. (14:40)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:40)
+
+游戏内时间: 14:45
+[Ethan Choi] 当前活动: Handling customer inquiries and resolving any issues promptly and professionally during the lunch rush. (14:45)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:45)
+
+游戏内时间: 14:50
+[Ethan Choi] 当前活动: Reviewing inventory levels and ordering supplies as needed to maintain a smooth workflow. (14:50)
+[Sophia Yang] 当前活动: Editing a chapter of her book on writing and editing techniques (14:50)
+
+游戏内时间: 14:55
+[Ethan Choi] 当前活动: Reviewing inventory levels and ordering supplies as needed to maintain a smooth workflow. (14:55)
+[Sophia Yang] 当前活动: Conducting research for an upcoming writing project by reading articles and taking notes (14:55)
+
+游戏内时间: 15:00
+[Ethan Choi] 当前活动: Reviewing inventory levels and ordering supplies as needed to maintain a smooth workflow. (15:00)
+[Sophia Yang] 当前活动: Conducting research for an upcoming writing project by reading articles and taking notes (15:00)
+
+游戏内时间: 15:05
+[Ethan Choi] 当前活动: Reviewing inventory levels and ordering supplies as needed to maintain a smooth workflow. (15:05)
+[Sophia Yang] 当前活动: Conducting research for an upcoming writing project by reading articles and taking notes (15:05)
+
+游戏内时间: 15:10
+[Ethan Choi] 当前活动: Managing supplier communications, responding to emails and phone calls promptly. (15:10)
+[Sophia Yang] 当前活动: Conducting research for an upcoming writing project by reading articles and taking notes (15:10)
+
+游戏内时间: 15:15
+[Ethan Choi] 当前活动: Managing supplier communications, responding to emails and phone calls promptly. (15:15)
+[Sophia Yang] 当前活动: Conducting research for an upcoming writing project by reading articles and taking notes (15:15)
+
+游戏内时间: 15:20
+[Ethan Choi] 当前活动: Managing supplier communications, responding to emails and phone calls promptly. (15:20)
+[Sophia Yang] 当前活动: Conducting research for an upcoming writing project by reading articles and taking notes (15:20)
+
+游戏内时间: 15:25
+[Ethan Choi] 当前活动: Managing supplier communications, responding to emails and phone calls promptly. (15:25)
+[Sophia Yang] 当前活动: Organizing and categorizing research materials for easy access (15:25)
+
+游戏内时间: 15:30
+[Ethan Choi] 当前活动: Managing supplier communications, responding to emails and phone calls promptly. (15:30)
+[Sophia Yang] 当前活动: Organizing and categorizing research materials for easy access (15:30)
+
+游戏内时间: 15:35
+[Ethan Choi] 当前活动: Planning workshops for underprivileged youth, coordinating logistics and scheduling. (15:35)
+[Sophia Yang] 当前活动: Organizing and categorizing research materials for easy access (15:35)
+
+游戏内时间: 15:40
+[Ethan Choi] 当前活动: Planning workshops for underprivileged youth, coordinating logistics and scheduling. (15:40)
+[Sophia Yang] 当前活动: Organizing and categorizing research materials for easy access (15:40)
+
+游戏内时间: 15:45
+[Ethan Choi] 当前活动: Planning workshops for underprivileged youth, coordinating logistics and scheduling. (15:45)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (15:45)
+
+游戏内时间: 15:50
+[Ethan Choi] 当前活动: Planning workshops for underprivileged youth, coordinating logistics and scheduling. (15:50)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (15:50)
+
+游戏内时间: 15:55
+[Ethan Choi] 当前活动: Planning workshops for underprivileged youth, coordinating logistics and scheduling. (15:55)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (15:55)
+
+游戏内时间: 16:00
+[Ethan Choi] 当前活动: Planning workshops for underprivileged youth, coordinating logistics and scheduling. (16:00)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (16:00)
+
+游戏内时间: 16:05
+[Ethan Choi] 当前活动: Updating the café's social media accounts with engaging content and promotions. (16:05)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (16:05)
+
+游戏内时间: 16:10
+[Ethan Choi] 当前活动: Updating the café's social media accounts with engaging content and promotions. (16:10)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (16:10)
+
+游戏内时间: 16:15
+[Ethan Choi] 当前活动: Updating the café's social media accounts with engaging content and promotions. (16:15)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (16:15)
+
+游戏内时间: 16:20
+[Ethan Choi] 当前活动: Updating the café's social media accounts with engaging content and promotions. (16:20)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (16:20)
+
+游戏内时间: 16:25
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits. (16:25)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (16:25)
+
+游戏内时间: 16:30
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits. (16:30)
+[Sophia Yang] 当前活动: Writing a proposal for a potential client project (16:30)
+
+游戏内时间: 16:35
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits. (16:35)
+[Sophia Yang] 当前活动: Reviewing and revising the proposal to ensure it meets client requirements (16:35)
+
+游戏内时间: 16:40
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits. (16:40)
+[Sophia Yang] 当前活动: Reviewing and revising the proposal to ensure it meets client requirements (16:40)
+
+游戏内时间: 16:45
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits. (16:45)
+[Sophia Yang] 当前活动: Finalizing and submitting the proposal to the client (16:45)
+
+游戏内时间: 16:50
+[Ethan Choi] 当前活动: Preparing for the "Coffee & Community" fundraiser on April 10th, coordinating logistics and scheduling. (16:50)
+[Sophia Yang] 当前活动: Taking a short break to refresh and recharge before continuing with writing tasks (16:50)
+
+游戏内时间: 16:55
+[Ethan Choi] 当前活动: Preparing for the "Coffee & Community" fundraiser on April 10th, coordinating logistics and scheduling. (16:55)
+[Sophia Yang] 当前活动: Taking a short break to refresh and recharge before continuing with writing tasks (16:55)
+
+游戏内时间: 17:00
+[Ethan Choi] 当前活动: Preparing for the "Coffee & Community" fundraiser on April 10th, coordinating logistics and scheduling. (17:00)
+[Sophia Yang] 当前活动: Checking and responding to urgent emails that require immediate attention (17:00)
+
+游戏内时间: 17:05
+[Ethan Choi] 当前活动: Preparing for the "Coffee & Community" fundraiser on April 10th, coordinating logistics and scheduling. (17:05)
+[Sophia Yang] 当前活动: Checking and responding to urgent emails that require immediate attention (17:05)
+
+游戏内时间: 17:10
+[Ethan Choi] 当前活动: Preparing for the "Coffee & Community" fundraiser on April 10th, coordinating logistics and scheduling. (17:10)
+[Sophia Yang] 当前活动: Responding to a series of follow-up emails regarding her book reading event (17:10)
+
+游戏内时间: 17:15
+[Ethan Choi] 当前活动: Preparing for the "Coffee & Community" fundraiser on April 10th, coordinating logistics and scheduling. (17:15)
+[Sophia Yang] 当前活动: Responding to a series of follow-up emails regarding her book reading event (17:15)
+
+游戏内时间: 17:20
+[Ethan Choi] 当前活动: Designing eco-friendly merchandise for the fundraiser, considering branding and sustainability. (17:20)
+[Sophia Yang] 当前活动: Responding to a series of follow-up emails regarding her book reading event (17:20)
+
+游戏内时间: 17:25
+[Ethan Choi] 当前活动: Designing eco-friendly merchandise for the fundraiser, considering branding and sustainability. (17:25)
+[Sophia Yang] 当前活动: Making phone calls to confirm the attendance of guest speakers for the book reading event (17:25)
+
+游戏内时间: 17:30
+[Ethan Choi] 当前活动: Designing eco-friendly merchandise for the fundraiser, considering branding and sustainability. (17:30)
+[Sophia Yang] 当前活动: Making phone calls to confirm the attendance of guest speakers for the book reading event (17:30)
+
+游戏内时间: 17:35
+[Ethan Choi] 当前活动: Designing eco-friendly merchandise for the fundraiser, considering branding and sustainability. (17:35)
+[Sophia Yang] 当前活动: Making phone calls to confirm the attendance of guest speakers for the book reading event (17:35)
+
+游戏内时间: 17:40
+[Ethan Choi] 当前活动: Designing eco-friendly merchandise for the fundraiser, considering branding and sustainability. (17:40)
+[Sophia Yang] 当前活动: Making phone calls to confirm the attendance of guest speakers for the book reading event (17:40)
+
+游戏内时间: 17:45
+[Ethan Choi] 当前活动: Partnering with neighborhood artists to host live music during the event, finalizing details. (17:45)
+[Sophia Yang] 当前活动: Returning a call from a potential client interested in collaborating on a writing project (17:45)
+
+游戏内时间: 17:50
+[Ethan Choi] 当前活动: Partnering with neighborhood artists to host live music during the event, finalizing details. (17:50)
+[Sophia Yang] 当前活动: Returning a call from a potential client interested in collaborating on a writing project (17:50)
+
+游戏内时间: 17:55
+[Ethan Choi] 当前活动: Partnering with neighborhood artists to host live music during the event, finalizing details. (17:55)
+[Sophia Yang] 当前活动: Reviewing and responding to comments from readers on her social media posts (17:55)
+
+游戏内时间: 18:00
+[Ethan Choi] 当前活动: Partnering with neighborhood artists to host live music during the event, finalizing details. (18:00)
+[Sophia Yang] 当前活动: Arriving at the City Library and setting up the necessary materials (18:00)
+[Sophia Yang] 现在正在 library ，坐标 [71, -58, 40]
+
+游戏内时间: 18:05
+[Ethan Choi] 当前活动: Managing inventory levels and ordering supplies as needed to maintain a smooth workflow during the fundraiser. (18:05)
+[Sophia Yang] 当前活动: Arriving at the City Library and setting up the necessary materials (18:05)
+
+游戏内时间: 18:10
+[Ethan Choi] 当前活动: Managing inventory levels and ordering supplies as needed to maintain a smooth workflow during the fundraiser. (18:10)
+[Sophia Yang] 当前活动: Greeting attendees and introducing herself as the host of the book reading event (18:10)
+
+游戏内时间: 18:15
+[Ethan Choi] 当前活动: Managing inventory levels and ordering supplies as needed to maintain a smooth workflow during the fundraiser. (18:15)
+[Sophia Yang] 当前活动: Greeting attendees and introducing herself as the host of the book reading event (18:15)
+
+游戏内时间: 18:20
+[Ethan Choi] 当前活动: Managing inventory levels and ordering supplies as needed to maintain a smooth workflow during the fundraiser. (18:20)
+[Sophia Yang] 当前活动: Greeting attendees and introducing herself as the host of the book reading event (18:20)
+
+游戏内时间: 18:25
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits before the end of the day. (18:25)
+[Sophia Yang] 当前活动: Introducing the first reader and facilitating their introduction to the audience (18:25)
+
+游戏内时间: 18:30
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits before the end of the day. (18:30)
+[Sophia Yang] 当前活动: Introducing the first reader and facilitating their introduction to the audience (18:30)
+
+游戏内时间: 18:35
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits before the end of the day. (18:35)
+[Sophia Yang] 当前活动: Introducing the first reader and facilitating their introduction to the audience (18:35)
+
+游戏内时间: 18:40
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits before the end of the day. (18:40)
+[Sophia Yang] 当前活动: Introducing the first reader and facilitating their introduction to the audience (18:40)
+
+游戏内时间: 18:45
+[Ethan Choi] 当前活动: Reviewing financial reports and making adjustments to optimize profits before the end of the day. (18:45)
+[Sophia Yang] 当前活动: Moderating a Q&A session with the readers and attendees (18:45)
+
+游戏内时间: 18:50
+[Ethan Choi] 当前活动: Finalizing preparations for the next day's shift, ensuring a smooth transition. (18:50)
+[Sophia Yang] 当前活动: Moderating a Q&A session with the readers and attendees (18:50)
+
+游戏内时间: 18:55
+[Ethan Choi] 当前活动: Finalizing preparations for the next day's shift, ensuring a smooth transition. (18:55)
+[Sophia Yang] 当前活动: Wrapping up the event and thanking everyone for attending (18:55)
+
+游戏内时间: 19:00
+[Ethan Choi] 当前活动: Finalizing preparations for the next day's shift, ensuring a smooth transition. (19:00)
+[Sophia Yang] 当前活动: Welcoming attendees and introducing themselves as the host of the event (19:00)
+
+游戏内时间: 19:05
+[Ethan Choi] 当前活动: 1) checking inventory levels for specialty coffee beans. (19:05)
+[Sophia Yang] 当前活动: Welcoming attendees and introducing themselves as the host of the event (19:05)
+
+游戏内时间: 19:10
+[Ethan Choi] 当前活动: 1) checking inventory levels for specialty coffee beans. (19:10)
+[Sophia Yang] 当前活动: Introducing the first reader and facilitating their introduction to the audience (19:10)
+
+游戏内时间: 19:15
+[Ethan Choi] 当前活动: reviewing eco-friendly merchandise designs. (19:15)
+[Sophia Yang] 当前活动: Introducing the first reader and facilitating their introduction to the audience (19:15)
+
+游戏内时间: 19:20
+[Ethan Choi] 当前活动: reviewing eco-friendly merchandise designs. (19:20)
+[Sophia Yang] 当前活动: Introducing the first reader and facilitating their introduction to the audience (19:20)
+[Sophia Yang] 现在正在 Sophia Yang's house ，坐标 [35, -58, -2]
+
+游戏内时间: 19:25
+[Ethan Choi] 当前活动: reviewing eco-friendly merchandise designs. (19:25)
+[Sophia Yang] 当前活动: Introducing the first reader and facilitating their introduction to the audience (19:25)
+
+游戏内时间: 19:30
+[Ethan Choi] 当前活动: reviewing eco-friendly merchandise designs. (19:30)
+[Sophia Yang] 当前活动: Moderating a Q&A session with the readers and attendees (19:30)
+
+游戏内时间: 19:35
+[Ethan Choi] 当前活动: confirming event logistics with café staff. (19:35)
+[Sophia Yang] 当前活动: Moderating a Q&A session with the readers and attendees (19:35)
+
+游戏内时间: 19:40
+[Ethan Choi] 当前活动: confirming event logistics with café staff. (19:40)
+[Sophia Yang] 当前活动: Moderating a Q&A session with the readers and attendees (19:40)
+
+游戏内时间: 19:45
+[Ethan Choi] 当前活动: making adjustments to the event schedule as needed. (19:45)
+[Sophia Yang] 当前活动: Introducing the second reader and facilitating their introduction to the audience (19:45)
+
+游戏内时间: 19:50
+[Ethan Choi] 当前活动: making adjustments to the event schedule as needed. (19:50)
+[Sophia Yang] 当前活动: Introducing the second reader and facilitating their introduction to the audience (19:50)
+
+游戏内时间: 19:55
+[Ethan Choi] 当前活动: double-checking all event preparations for accuracy and completeness. (19:55)
+[Sophia Yang] 当前活动: Wrapping up the event and thanking everyone for attending (19:55)
+
+游戏内时间: 20:00
+[Ethan Choi] 当前活动: 1) checking supplier communication records. (20:00)
+[Sophia Yang] 当前活动: Taking final questions from attendees and ensuring a smooth conclusion (20:00)
+
+游戏内时间: 20:05
+[Ethan Choi] 当前活动: 1) checking supplier communication records. (20:05)
+[Sophia Yang] 当前活动: Saving all unsaved documents and closing editing software (20:05)
+
+游戏内时间: 20:10
+[Ethan Choi] 当前活动: 1) checking supplier communication records. (20:10)
+[Sophia Yang] 当前活动: Reviewing the tasks completed for the day and updating her task list (20:10)
+
+游戏内时间: 20:15
+[Ethan Choi] 当前活动: 1) confirming vendor agreements. (20:15)
+[Sophia Yang] 当前活动: Reviewing the tasks completed for the day and updating her task list (20:15)
+
+游戏内时间: 20:20
+[Ethan Choi] 当前活动: 1) confirming vendor agreements. (20:20)
+[Sophia Yang] 当前活动: Reviewing the tasks completed for the day and updating her task list (20:20)
+
+游戏内时间: 20:25
+[Ethan Choi] 当前活动: 1) confirming vendor agreements. (20:25)
+[Sophia Yang] 当前活动: Responding to any urgent emails or messages related to work (20:25)
+
+游戏内时间: 20:30
+[Ethan Choi] 当前活动: 1) confirming vendor agreements. (20:30)
+[Sophia Yang] 当前活动: Responding to any urgent emails or messages related to work (20:30)
+
+游戏内时间: 20:35
+[Ethan Choi] 当前活动: updating workshop planning documents. (20:35)
+[Sophia Yang] 当前活动: Responding to any urgent emails or messages related to work (20:35)
+
+游戏内时间: 20:40
+[Ethan Choi] 当前活动: updating workshop planning documents. (20:40)
+[Sophia Yang] 当前活动: Responding to any urgent emails or messages related to work (20:40)
+
+游戏内时间: 20:45
+[Ethan Choi] 当前活动: updating workshop planning documents. (20:45)
+[Sophia Yang] 当前活动: Taking a short break to stretch and move around (20:45)
+
+游戏内时间: 20:50
+[Ethan Choi] 当前活动: reviewing live music schedule with neighborhood artists. (20:50)
+[Sophia Yang] 当前活动: Taking a short break to stretch and move around (20:50)
+
+游戏内时间: 20:55
+[Ethan Choi] 当前活动: reviewing live music schedule with neighborhood artists. (20:55)
+[Sophia Yang] 当前活动: Reflecting on the day's progress and planning for tomorrow (20:55)
+
+游戏内时间: 21:00
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:00)
+[Sophia Yang] 当前活动: Brushing teeth and washing face to prepare for bed (21:00)
+
+游戏内时间: 21:05
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:05)
+[Sophia Yang] 当前活动: Brushing teeth and washing face to prepare for bed (21:05)
+
+游戏内时间: 21:10
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:10)
+[Sophia Yang] 当前活动: Changing into comfortable sleep clothes (21:10)
+
+游戏内时间: 21:15
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:15)
+[Sophia Yang] 当前活动: Setting out tomorrow's outfit and preparing any necessary work materials (21:15)
+
+游戏内时间: 21:20
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:20)
+[Sophia Yang] 当前活动: Setting out tomorrow's outfit and preparing any necessary work materials (21:20)
+
+游戏内时间: 21:25
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:25)
+[Sophia Yang] 当前活动: Setting out tomorrow's outfit and preparing any necessary work materials (21:25)
+
+游戏内时间: 21:30
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:30)
+[Sophia Yang] 当前活动: Writing down any important tasks or reminders for the next day (21:30)
+
+游戏内时间: 21:35
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:35)
+[Sophia Yang] 当前活动: Writing down any important tasks or reminders for the next day (21:35)
+
+游戏内时间: 21:40
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:40)
+[Sophia Yang] 当前活动: Reviewing schedule for the next day to ensure everything is prepared (21:40)
+
+游戏内时间: 21:45
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:45)
+[Sophia Yang] 当前活动: Reviewing schedule for the next day to ensure everything is prepared (21:45)
+
+游戏内时间: 21:50
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:50)
+[Sophia Yang] 当前活动: Reviewing schedule for the next day to ensure everything is prepared (21:50)
+
+游戏内时间: 21:55
+[Ethan Choi] 当前活动: making final notes on event preparations. (21:55)
+[Sophia Yang] 当前活动: Reviewing schedule for the next day to ensure everything is prepared (21:55)
+
+游戏内时间: 22:00
+[Ethan Choi] 当前活动: ** 1) checking supplier communication records. (22:00)
+[Sophia Yang] 当前活动: Making a cup of tea or water to have ready for when waking up (22:00)
+
+游戏内时间: 22:05
+[Ethan Choi] 当前活动: ** 1) checking supplier communication records. (22:05)
+[Sophia Yang] 当前活动: Setting alarm clock and ensuring it's set to wake her up on time (22:05)
+
+游戏内时间: 22:10
+[Ethan Choi] 当前活动: ** 1) checking supplier communication records. (22:10)
+[Sophia Yang] 当前活动: Setting alarm clock and ensuring it's set to wake her up on time (22:10)
+
+游戏内时间: 22:15
+[Ethan Choi] 当前活动: confirming vendor agreements. (22:15)
+[Sophia Yang] 当前活动: Getting into bed and getting comfortable (22:15)
+
+游戏内时间: 22:20
+[Ethan Choi] 当前活动: confirming vendor agreements. (22:20)
+[Sophia Yang] 当前活动: Getting into bed and getting comfortable (22:20)
+
+游戏内时间: 22:25
+[Ethan Choi] 当前活动: confirming vendor agreements. (22:25)
+[Sophia Yang] 当前活动: Getting into bed and getting comfortable (22:25)
+
+游戏内时间: 22:30
+[Ethan Choi] 当前活动: confirming vendor agreements. (22:30)
+[Sophia Yang] 当前活动: Reading or listening to something relaxing before sleep to unwind (22:30)
+
+游戏内时间: 22:35
+[Ethan Choi] 当前活动: reviewing live music schedule with neighborhood artists. (22:35)
+[Sophia Yang] 当前活动: Reading or listening to something relaxing before sleep to unwind (22:35)
+
+游戏内时间: 22:40
+[Ethan Choi] 当前活动: reviewing live music schedule with neighborhood artists. (22:40)
+[Sophia Yang] 当前活动: Reading or listening to something relaxing before sleep to unwind (22:40)
+
+游戏内时间: 22:45
+[Ethan Choi] 当前活动: updating workshop planning documents. (22:45)
+[Sophia Yang] 当前活动: Reading or listening to something relaxing before sleep to unwind (22:45)
+
+游戏内时间: 22:50
+[Ethan Choi] 当前活动: making final checks on merchandise design. (22:50)
+[Sophia Yang] 当前活动: Reading or listening to something relaxing before sleep to unwind (22:50)
+
+游戏内时间: 22:55
+[Ethan Choi] 当前活动: making final checks on merchandise design. (22:55)
+[Sophia Yang] 当前活动: Reading or listening to something relaxing before sleep to unwind (22:55)
+
+游戏内时间: 23:00
+[Ethan Choi] 当前活动: making final checks on merchandise design. (23:00)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:00)
+
+游戏内时间: 23:05
+[Ethan Choi] 当前活动: reviewing specialty coffee menu with the chef. (23:05)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:05)
+
+游戏内时间: 23:10
+[Ethan Choi] 当前活动: reviewing specialty coffee menu with the chef. (23:10)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:10)
+
+游戏内时间: 23:15
+[Ethan Choi] 当前活动: double-checking event schedule and timeline. (23:15)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:15)
+
+游戏内时间: 23:20
+[Ethan Choi] 当前活动: double-checking event schedule and timeline. (23:20)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:20)
+
+游戏内时间: 23:25
+[Ethan Choi] 当前活动: double-checking event schedule and timeline. (23:25)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:25)
+
+游戏内时间: 23:30
+[Ethan Choi] 当前活动: double-checking event schedule and timeline. (23:30)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:30)
+
+游戏内时间: 23:35
+[Ethan Choi] 当前活动: reviewing live music schedule with neighborhood artists. (23:35)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:35)
+
+游戏内时间: 23:40
+[Ethan Choi] 当前活动: reviewing live music schedule with neighborhood artists. (23:40)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:40)
+
+游戏内时间: 23:45
+[Ethan Choi] 当前活动: updating workshop planning documents. (23:45)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:45)
+
+游戏内时间: 23:50
+[Ethan Choi] 当前活动: making final checks on merchandise design. (23:50)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:50)
+
+游戏内时间: 23:55
+[Ethan Choi] 当前活动: making final checks on merchandise design. (23:55)
+[Sophia Yang] 当前活动: Drifting off to sleep, preparing for a restful night's sleep (23:55)
+
+游戏内时间: 00:00
+[Ethan Choi] 当前活动: sleeping (00:00)
+[Sophia Yang] 当前活动: sleeping (00:00)

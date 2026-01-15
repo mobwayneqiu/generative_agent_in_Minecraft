@@ -1,0 +1,430 @@
+[['sleeping', 300], ['waking up and stretching', 10], ['jogging', 30], ['meditating', 20], ['getting dressed for work', 15], ['making breakfast and refueling before work', 10], ["reviewing the day's schedule and tasks at the caf��", 15], ['checking emails and responding to any urgent messages', 10], ['final preparations for starting work at 7:00 AM', 10], ['getting dressed for work', 10], ['brushing teeth and washing face', 15], ['making a quick breakfast (e.g., toast, fruit)', 20], ['grabbing coffee and water for the shift', 5], ["reviewing the day's schedule and tasks at the caf��", 10], ['checking emails and responding to any urgent messages', 0], ['turning on equipment and setting up the coffee station', 10], ['reviewing customer orders and preparing for the morning rush', 15], ['greeting regular customers and making small talk', 20], ['prepping for creative menu experiments (e.g., setting up ingredients, equipment)', 10], ["reviewing the day's inventory and supplies", -55], ['grabbing coffee and water for the shift', 5], ["reviewing the day's schedule and tasks at the caf��", 10], ['greeting regular customers and making small talk', 20], ['prepping for creative menu experiments (e.g., setting up ingredients, equipment)', 10], ['taking orders and serving customers', 30], ['creating new latte art designs', 25], ['experimenting with new coffee blends', 20], ['managing cash register and handling transactions', 15], ['maintaining a clean and organized workspace', 10], ['taking short breaks to stretch and restock supplies', 5], ['**From 02:00 PM to 04:00 PM (Transitioning to administrative tasks)** 1) reviewing inventory levels and ordering supplies', 15], ['planning workshops for underprivileged youth', 25], ['communicating with suppliers about new coffee bean shipments', 20], ['updating social media with promotions and events', 10], ['reviewing financial reports and balancing the books', 140], ['putting away equipment and cleaning the workspace', 5], ['reviewing inventory levels and ordering supplies', 5], ['checking financial reports for discrepancies or errors', 5], ["reconciling cash register transactions with the day's sales", 5], ['updating inventory management software with current stock levels', 5], ['planning for upcoming workshops and events, including scheduling and promotion', 5], ['communicating with suppliers about new coffee bean shipments or other orders', 5], ['reviewing social media for customer engagement and responding to comments', 5], ["updating the caf��'s website with new menu items or promotions", 5], ['taking a short break to restock supplies and recharge', 75], ['Reviewing inventory levels and ordering supplies', 5], ['Checking financial reports for discrepancies or errors', 5], ['Updating event planning spreadsheet with current progress', 5], ['Communicating with suppliers about new coffee bean shipments or other orders', 5], ['Reviewing social media for customer engagement and responding to comments', 5], ["Updating the caf��'s website with new menu items or promotions", 5], ['Coordinating with neighborhood artists for live music during the event', 5], ['Finalizing event logistics, including setup and teardown plans', 5], ['Reviewing eco-friendly merchandise designs for the event', 5], ['Confirming with local urban farming initiative about partnership details', 5], ['Checking on progress of specialty coffee menu development for the event', 5], ['Reviewing overall event plan and making final adjustments as needed', 5], ['Reviewing overall event plan and making final adjustments as needed', 5], ['Finalizing event logistics, including setup and teardown plans', 5], ['Confirming with local urban farming initiative about partnership details', 5], ['Reviewing eco-friendly merchandise designs for the event', 5], ['Checking on progress of specialty coffee menu development for the event', 5], ['Reviewing financial reports for the caf�� and making any necessary adjustments', 5], ['Updating event planning spreadsheet with current progress', 5], ['Communicating with suppliers about new coffee bean shipments or other orders', 5], ['Reviewing social media for customer engagement and responding to comments', 5], ["Updating the caf��'s website with new menu items or promotions", 5], ['Coordinating with neighborhood artists for live music during the event', 5], ['Finalizing event schedule and sending it to relevant parties', 5], ["Wrapping up administrative tasks for the day, preparing for the next day's tasks", 0], ['Wrapping up inventory management, including reconciling any discrepancies', 5], ["Reviewing workshop planning documents for the next day's events", 5], ['Preparing and sending supplier communications, including ordering new coffee beans', 5], ['Updating event planning spreadsheet with current progress on the "Coffee & Community" fundraiser', 5], ['Confirming with neighborhood artists about live music details for the event', 5], ['Reviewing eco-friendly merchandise designs and making any necessary adjustments', 5], ['Checking on progress of specialty coffee menu development for the event', 5], ['Reviewing financial reports for the caf�� and making any necessary adjustments', 5], ['Updating social media with event promotions and engaging with customers', 5], ["Finalizing administrative tasks for the day, preparing for the next day's events", 5], ["Wrapping up any remaining tasks and reviewing tomorrow's schedule", 5], ['Taking a short break before moving on to dinner plans with friends', 5], ['Checking on progress of current plants and making any necessary adjustments', 10], ['Reviewing notes on upcoming workshops at the caf��, ensuring relevance to urban gardening', 15], ["Planning for the next day's tasks, including inventory management and supplier communications", 20], ['Responding to online mentoring queries from aspiring baristas, providing guidance on coffee brewing techniques', 10], ['Reviewing designs for eco-friendly merchandise, ensuring alignment with urban gardening initiative goals', 5], ['Checking on progress of current plants, noting any necessary adjustments', 10], ['Researching new methods for sustainable soil management', 20], ['Reviewing inventory levels of gardening supplies, ordering additional materials as needed', 15], ['Planning layout for upcoming garden workshop with neighborhood youth', 10], ['Finalizing designs for eco-friendly merchandise, ensuring alignment with urban gardening initiative goals', 5], ['Responding to comments on social media about brewing techniques.', 20], ['Reviewing and providing feedback on a submitted coffee recipe.', 30], ['Answering questions from online forum users about coffee bean sourcing.', 25], ['Conducting a live online Q&A session with a group of aspiring baristas.', 40], ['Finalizing and sending a response to an email inquiry from a potential workshop participant.', 5], ['Responding to comments on social media about a previous Q&A session.', 15], ['Answering questions from online forum users about coffee brewing techniques.', 20], ['Conducting a live online chat with a group of aspiring baristas to answer their queries.', 30], ['Reviewing and responding to emails from potential workshop participants.', -5]]
+[['sleeping', 360], ['checking her phone and responding to any urgent messages.', 10], ['getting out of bed and stretching.', 5], ['brushing teeth and washing face.', 15], ['having a glass of water to hydrate herself.', 5], ['getting dressed for the day.', 25], ['starting a short meditation session to clear her mind.', 20], ['taking slow, deep breaths and focusing on the present moment.', 10], ['writing down her thoughts and reflections from the previous day in her journal.', 15], ['setting intentions for the day ahead and making a to-do list.', 10], ['wrapping up her morning meditation and journaling practice with a moment of gratitude.', 5], ['checking the current status of her reading selections and making any necessary adjustments.', 15], ['preparing a list of potential promotional materials, such as posters, flyers, or social media graphics.', 20], ['brainstorming ideas for engaging the audience during the event, including possible Q&A sessions or discussions.', 15], ['sending out a request to local bookstores and literary organizations to promote the event through their channels.', 5], ['finalizing the event schedule and timeline, including setup and teardown details.', 5], ['reviewing her current writing project, making any necessary revisions, and checking for consistency.', 15], ['researching and gathering information on a specific topic related to her book reading event, including quotes or passages that may be relevant.', 20], ['editing a section of her manuscript, focusing on grammar, syntax, and clarity.', 10], ['writing new content for the book reading event, such as introductions or summaries of the featured books.', 5], ['making final checks on the formatting and layout of her manuscript, ensuring that it is ready for submission.', 5], ['proofreading a section of her writing, catching any errors or typos that may have been missed during previous edits.', 5], ["reviewing her current writing project, making any necessary revisions, and checking for consistency with the event's theme.", 20], ["brainstorming ideas for engaging introductions and transitions between readings, considering the audience's interests and attention span.", 30], ["creating a detailed outline of the event's schedule, including setup, welcome remarks, reading sessions, and Q&A periods.", 30], ['researching and selecting relevant quotes or passages to be shared with attendees before the event, highlighting the significance of each selection.', 20], ['drafting a concise description of the book reading event for promotional purposes, emphasizing its unique aspects and benefits.', 10], ["finalizing the layout and design of promotional materials, including posters, flyers, and social media graphics, to effectively communicate the event's message.", 5], ["reviewing and revising all written content for accuracy, clarity, and impact, ensuring that it aligns with the event's goals and objectives.", 5], ['checking and responding to any urgent messages or emails related to the book reading event.', 10], ['eating a nutritious lunch and taking a short power nap to recharge.', 20], ['meditating for 5 minutes to clear her mind and refocus on the task at hand.', 5], ['browsing through social media to stay updated on literary news and trends relevant to the event.', 10], ['making a cup of tea or coffee to refresh her mind and body.', 5], ['taking a short walk around the block to get some fresh air and stretch her legs.', 5], ['reviewing her schedule for the rest of the day and prioritizing tasks accordingly.', 5], ['reviewing promotional materials and making any necessary revisions.', 15], ['drafting a social media post to promote the event.', 20], ['researching local literature groups to invite as guests or partners.', 25], ['creating an email invitation for speakers and performers.', 30], ['finalizing the event schedule and timeline.', 20], ['making a list of tasks to complete before the event.', -50], ['checking and responding to urgent emails.', 10], ['making a grocery list for the weekend.', 15], ['scheduling an appointment with her dentist.', 20], ['paying bills online.', 25], ['planning her outfit for the book reading event.', -10], ['paying bills online.', 10], ['making a grocery list for the weekend.', 15], ['checking and responding to urgent emails.', 20], ['scheduling an appointment with her dentist.', 25], ['folding and putting away laundry.', -10], ["reviewing notes on potential readers' comments.", 20], ['writing an introduction for the featured author.', 30], ['editing promotional materials for social media posts.', 25], ['researching and selecting relevant music for the event playlist.', 20], ["drafting a welcome speech for the evening's program.", 15], ['finalizing seating arrangements and venue setup details.', 10], ['confirming with the featured author about their arrival time and materials needed.', 20], ["reviewing the evening's schedule and timeline with the venue staff.", 25], ['preparing a list of attendees for introduction purposes at the event.', 30], ['finalizing the setup of audio-visual equipment and testing it to ensure smooth operation.', 35], ['reviewing the promotional materials one last time to ensure accuracy and completeness.', 10], ['taking a warm bath to relax her muscles.', 20], ['listening to calming music on her phone to unwind.', 25], ['making a cup of herbal tea and savoring it slowly.', 30], ['practicing some gentle stretches to release tension.', 20], ['reading a book or magazine for 10 minutes before bed.', 10], ["writing down things she's grateful for and reflecting on the day.", 10], ['setting her alarm clock and getting ready for bed.', 5], ['getting into bed and adjusting pillows for comfort.', 5], ['turning off all electronic devices, including phone and computer.', 10], ['setting her alarm clock for the next morning.', 5], ['taking a few deep breaths to relax and calm down.', 5], ['closing her eyes and drifting off to sleep.', 10], ['sleeping peacefully and waking up refreshed.', 80], ['slowly waking up to the sound of her alarm clock.', 5]]
+
+Time: 04:55
+[Ethan Choi] is sleeping
+[Sophia Yang] is sleeping
+[['sleeping', 300], ['waking up and stretching', 10], ['jogging', 30], ['meditating', 20], ['getting dressed for work', 15], ['making breakfast and refueling before work', 10], ["reviewing the day's schedule and tasks at the caf��", 15], ['checking emails and responding to any urgent messages', 10], ['final preparations for starting work at 7:00 AM', 10], ['getting dressed for work', 10], ['brushing teeth and washing face', 15], ['making a quick breakfast (e.g., toast, fruit)', 20], ['grabbing coffee and water for the shift', 5], ["reviewing the day's schedule and tasks at the caf��", 10], ['checking emails and responding to any urgent messages', 0], ['turning on equipment and setting up the coffee station', 10], ['reviewing customer orders and preparing for the morning rush', 15], ['greeting regular customers and making small talk', 20], ['prepping for creative menu experiments (e.g., setting up ingredients, equipment)', 10], ["reviewing the day's inventory and supplies", -55], ['grabbing coffee and water for the shift', 5], ["reviewing the day's schedule and tasks at the caf��", 10], ['greeting regular customers and making small talk', 20], ['prepping for creative menu experiments (e.g., setting up ingredients, equipment)', 10], ['taking orders and serving customers', 30], ['creating new latte art designs', 25], ['experimenting with new coffee blends', 20], ['managing cash register and handling transactions', 15], ['maintaining a clean and organized workspace', 10], ['taking short breaks to stretch and restock supplies', 5], ['**From 02:00 PM to 04:00 PM (Transitioning to administrative tasks)** 1) reviewing inventory levels and ordering supplies', 15], ['planning workshops for underprivileged youth', 25], ['communicating with suppliers about new coffee bean shipments', 20], ['updating social media with promotions and events', 10], ['reviewing financial reports and balancing the books', 140], ['putting away equipment and cleaning the workspace', 5], ['reviewing inventory levels and ordering supplies', 5], ['checking financial reports for discrepancies or errors', 5], ["reconciling cash register transactions with the day's sales", 5], ['updating inventory management software with current stock levels', 5], ['planning for upcoming workshops and events, including scheduling and promotion', 5], ['communicating with suppliers about new coffee bean shipments or other orders', 5], ['reviewing social media for customer engagement and responding to comments', 5], ["updating the caf��'s website with new menu items or promotions", 5], ['taking a short break to restock supplies and recharge', 75], ['Reviewing inventory levels and ordering supplies', 5], ['Checking financial reports for discrepancies or errors', 5], ['Updating event planning spreadsheet with current progress', 5], ['Communicating with suppliers about new coffee bean shipments or other orders', 5], ['Reviewing social media for customer engagement and responding to comments', 5], ["Updating the caf��'s website with new menu items or promotions", 5], ['Coordinating with neighborhood artists for live music during the event', 5], ['Finalizing event logistics, including setup and teardown plans', 5], ['Reviewing eco-friendly merchandise designs for the event', 5], ['Confirming with local urban farming initiative about partnership details', 5], ['Checking on progress of specialty coffee menu development for the event', 5], ['Reviewing overall event plan and making final adjustments as needed', 5], ['Reviewing overall event plan and making final adjustments as needed', 5], ['Finalizing event logistics, including setup and teardown plans', 5], ['Confirming with local urban farming initiative about partnership details', 5], ['Reviewing eco-friendly merchandise designs for the event', 5], ['Checking on progress of specialty coffee menu development for the event', 5], ['Reviewing financial reports for the caf�� and making any necessary adjustments', 5], ['Updating event planning spreadsheet with current progress', 5], ['Communicating with suppliers about new coffee bean shipments or other orders', 5], ['Reviewing social media for customer engagement and responding to comments', 5], ["Updating the caf��'s website with new menu items or promotions", 5], ['Coordinating with neighborhood artists for live music during the event', 5], ['Finalizing event schedule and sending it to relevant parties', 5], ["Wrapping up administrative tasks for the day, preparing for the next day's tasks", 0], ['Wrapping up inventory management, including reconciling any discrepancies', 5], ["Reviewing workshop planning documents for the next day's events", 5], ['Preparing and sending supplier communications, including ordering new coffee beans', 5], ['Updating event planning spreadsheet with current progress on the "Coffee & Community" fundraiser', 5], ['Confirming with neighborhood artists about live music details for the event', 5], ['Reviewing eco-friendly merchandise designs and making any necessary adjustments', 5], ['Checking on progress of specialty coffee menu development for the event', 5], ['Reviewing financial reports for the caf�� and making any necessary adjustments', 5], ['Updating social media with event promotions and engaging with customers', 5], ["Finalizing administrative tasks for the day, preparing for the next day's events", 5], ["Wrapping up any remaining tasks and reviewing tomorrow's schedule", 5], ['Taking a short break before moving on to dinner plans with friends', 5], ['Checking on progress of current plants and making any necessary adjustments', 10], ['Reviewing notes on upcoming workshops at the caf��, ensuring relevance to urban gardening', 15], ["Planning for the next day's tasks, including inventory management and supplier communications", 20], ['Responding to online mentoring queries from aspiring baristas, providing guidance on coffee brewing techniques', 10], ['Reviewing designs for eco-friendly merchandise, ensuring alignment with urban gardening initiative goals', 5], ['Checking on progress of current plants, noting any necessary adjustments', 10], ['Researching new methods for sustainable soil management', 20], ['Reviewing inventory levels of gardening supplies, ordering additional materials as needed', 15], ['Planning layout for upcoming garden workshop with neighborhood youth', 10], ['Finalizing designs for eco-friendly merchandise, ensuring alignment with urban gardening initiative goals', 5], ['Responding to comments on social media about brewing techniques.', 20], ['Reviewing and providing feedback on a submitted coffee recipe.', 30], ['Answering questions from online forum users about coffee bean sourcing.', 25], ['Conducting a live online Q&A session with a group of aspiring baristas.', 40], ['Finalizing and sending a response to an email inquiry from a potential workshop participant.', 5], ['Responding to comments on social media about a previous Q&A session.', 15], ['Answering questions from online forum users about coffee brewing techniques.', 20], ['Conducting a live online chat with a group of aspiring baristas to answer their queries.', 30], ['Reviewing and responding to emails from potential workshop participants.', -5]]
+[['sleeping', 360], ['checking her phone and responding to any urgent messages.', 10], ['getting out of bed and stretching.', 5], ['brushing teeth and washing face.', 15], ['having a glass of water to hydrate herself.', 5], ['getting dressed for the day.', 25], ['starting a short meditation session to clear her mind.', 20], ['taking slow, deep breaths and focusing on the present moment.', 10], ['writing down her thoughts and reflections from the previous day in her journal.', 15], ['setting intentions for the day ahead and making a to-do list.', 10], ['wrapping up her morning meditation and journaling practice with a moment of gratitude.', 5], ['checking the current status of her reading selections and making any necessary adjustments.', 15], ['preparing a list of potential promotional materials, such as posters, flyers, or social media graphics.', 20], ['brainstorming ideas for engaging the audience during the event, including possible Q&A sessions or discussions.', 15], ['sending out a request to local bookstores and literary organizations to promote the event through their channels.', 5], ['finalizing the event schedule and timeline, including setup and teardown details.', 5], ['reviewing her current writing project, making any necessary revisions, and checking for consistency.', 15], ['researching and gathering information on a specific topic related to her book reading event, including quotes or passages that may be relevant.', 20], ['editing a section of her manuscript, focusing on grammar, syntax, and clarity.', 10], ['writing new content for the book reading event, such as introductions or summaries of the featured books.', 5], ['making final checks on the formatting and layout of her manuscript, ensuring that it is ready for submission.', 5], ['proofreading a section of her writing, catching any errors or typos that may have been missed during previous edits.', 5], ["reviewing her current writing project, making any necessary revisions, and checking for consistency with the event's theme.", 20], ["brainstorming ideas for engaging introductions and transitions between readings, considering the audience's interests and attention span.", 30], ["creating a detailed outline of the event's schedule, including setup, welcome remarks, reading sessions, and Q&A periods.", 30], ['researching and selecting relevant quotes or passages to be shared with attendees before the event, highlighting the significance of each selection.', 20], ['drafting a concise description of the book reading event for promotional purposes, emphasizing its unique aspects and benefits.', 10], ["finalizing the layout and design of promotional materials, including posters, flyers, and social media graphics, to effectively communicate the event's message.", 5], ["reviewing and revising all written content for accuracy, clarity, and impact, ensuring that it aligns with the event's goals and objectives.", 5], ['checking and responding to any urgent messages or emails related to the book reading event.', 10], ['eating a nutritious lunch and taking a short power nap to recharge.', 20], ['meditating for 5 minutes to clear her mind and refocus on the task at hand.', 5], ['browsing through social media to stay updated on literary news and trends relevant to the event.', 10], ['making a cup of tea or coffee to refresh her mind and body.', 5], ['taking a short walk around the block to get some fresh air and stretch her legs.', 5], ['reviewing her schedule for the rest of the day and prioritizing tasks accordingly.', 5], ['reviewing promotional materials and making any necessary revisions.', 15], ['drafting a social media post to promote the event.', 20], ['researching local literature groups to invite as guests or partners.', 25], ['creating an email invitation for speakers and performers.', 30], ['finalizing the event schedule and timeline.', 20], ['making a list of tasks to complete before the event.', -50], ['checking and responding to urgent emails.', 10], ['making a grocery list for the weekend.', 15], ['scheduling an appointment with her dentist.', 20], ['paying bills online.', 25], ['planning her outfit for the book reading event.', -10], ['paying bills online.', 10], ['making a grocery list for the weekend.', 15], ['checking and responding to urgent emails.', 20], ['scheduling an appointment with her dentist.', 25], ['folding and putting away laundry.', -10], ["reviewing notes on potential readers' comments.", 20], ['writing an introduction for the featured author.', 30], ['editing promotional materials for social media posts.', 25], ['researching and selecting relevant music for the event playlist.', 20], ["drafting a welcome speech for the evening's program.", 15], ['finalizing seating arrangements and venue setup details.', 10], ['confirming with the featured author about their arrival time and materials needed.', 20], ["reviewing the evening's schedule and timeline with the venue staff.", 25], ['preparing a list of attendees for introduction purposes at the event.', 30], ['finalizing the setup of audio-visual equipment and testing it to ensure smooth operation.', 35], ['reviewing the promotional materials one last time to ensure accuracy and completeness.', 10], ['taking a warm bath to relax her muscles.', 20], ['listening to calming music on her phone to unwind.', 25], ['making a cup of herbal tea and savoring it slowly.', 30], ['practicing some gentle stretches to release tension.', 20], ['reading a book or magazine for 10 minutes before bed.', 10], ["writing down things she's grateful for and reflecting on the day.", 10], ['setting her alarm clock and getting ready for bed.', 5], ['getting into bed and adjusting pillows for comfort.', 5], ['turning off all electronic devices, including phone and computer.', 10], ['setting her alarm clock for the next morning.', 5], ['taking a few deep breaths to relax and calm down.', 5], ['closing her eyes and drifting off to sleep.', 10], ['sleeping peacefully and waking up refreshed.', 80], ['slowly waking up to the sound of her alarm clock.', 5]]
+
+Time: 04:55
+[Ethan Choi] is sleeping
+[Sophia Yang] is sleeping
+
+Time: 05:00
+[Ethan Choi] is waking up and stretching
+[Ethan Choi]: Good morning! I'm glad to be back. I see Here is still sleeping, haha. Time for me to start my day.
+[Sophia Yang] is sleeping
+
+Time: 05:05
+[Ethan Choi] is waking up and stretching
+[Sophia Yang] is sleeping
+
+Time: 05:10
+[Ethan Choi] is jogging
+[Sophia Yang] is sleeping
+[Sophia Yang]: Good morning, Ethan! I see you're up early. Hope your day is as bright as your smile.
+
+Time: 05:15
+[Ethan Choi] is jogging
+[Sophia Yang] is sleeping
+
+Time: 05:20
+[Ethan Choi] is jogging
+[Sophia Yang] is sleeping
+
+Time: 05:25
+[Ethan Choi] is jogging
+[Sophia Yang] is sleeping
+
+Time: 05:30
+[Ethan Choi] is jogging
+[Sophia Yang] is sleeping
+
+Time: 05:35
+[Ethan Choi] is jogging
+[Sophia Yang] is sleeping
+
+Time: 05:40
+[Ethan Choi] is meditating
+[Sophia Yang] is sleeping
+
+Time: 05:45
+[Ethan Choi] is meditating
+[Sophia Yang] is sleeping
+
+Time: 05:50
+[Ethan Choi] is meditating
+[Sophia Yang] is sleeping
+
+Time: 05:55
+[Ethan Choi] is meditating
+[Sophia Yang] is sleeping
+
+Time: 06:00
+[Ethan Choi] is getting dressed for work
+[Sophia Yang] is checking her phone and responding to any urgent messages.
+[Sophia Yang]: Hope everything is going well with your 'Coffee & Community' fundraiser, Ethan! I'll talk to you later when you're more awake.
+
+Time: 06:05
+[Ethan Choi] is getting dressed for work
+[Ethan Choi]: Morning get! Just getting ready for another busy shift at the caf��. Hope you're doing well today!
+[Sophia Yang] is checking her phone and responding to any urgent messages.
+
+Time: 06:10
+[Ethan Choi] is getting dressed for work
+[Sophia Yang] is getting out of bed and stretching.
+
+Time: 06:15
+[Ethan Choi] is making breakfast and refueling before work
+[Sophia Yang] is brushing teeth and washing face.
+
+Time: 06:20
+[Ethan Choi] is making breakfast and refueling before work
+[Sophia Yang] is brushing teeth and washing face.
+
+Time: 06:25
+[Ethan Choi] is reviewing the day's schedule and tasks at the caf��
+[Ethan Choi]: Hey make, just fueling up before my shift. Wish I had more time for a latte art practice session this morning!
+[Sophia Yang] is brushing teeth and washing face.
+
+Time: 06:30
+[Ethan Choi] is reviewing the day's schedule and tasks at the caf��
+[Sophia Yang] is having a glass of water to hydrate herself.
+
+Time: 06:35
+[Ethan Choi] is reviewing the day's schedule and tasks at the caf��
+[Sophia Yang] is getting dressed for the day.
+
+Time: 06:40
+[Ethan Choi] is checking emails and responding to any urgent messages
+[Sophia Yang] is getting dressed for the day.
+
+Time: 06:45
+[Ethan Choi] is checking emails and responding to any urgent messages
+[Ethan Choi]: Good morning Sophia! Getting ready for another busy day at the caf��. How's your schedule looking today?
+[Sophia Yang] is getting dressed for the day.
+
+Time: 06:50
+[Ethan Choi] is final preparations for starting work at 7:00 AM
+[Sophia Yang] is getting dressed for the day.
+
+Time: 06:55
+[Ethan Choi] is final preparations for starting work at 7:00 AM
+[Sophia Yang] is getting dressed for the day.
+
+Time: 07:00
+[Ethan Choi] is getting dressed for work
+[Ethan Choi]: Hey Sophia, I'm heading out to get some fresh air before my shift starts. See you around!
+[Sophia Yang] is starting a short meditation session to clear her mind.
+
+Time: 07:05
+[Ethan Choi] is getting dressed for work
+[Ethan Choi]: Good luck with your meditation session, Sophia! I hope it brings you clarity and focus for the day ahead.
+[Sophia Yang] is starting a short meditation session to clear her mind.
+
+Time: 07:10
+[Ethan Choi] is brushing teeth and washing face
+[Sophia Yang] is starting a short meditation session to clear her mind.
+
+Time: 07:15
+[Ethan Choi] is brushing teeth and washing face
+[Sophia Yang] is starting a short meditation session to clear her mind.
+
+Time: 07:20
+[Ethan Choi] is brushing teeth and washing face
+[Sophia Yang] is taking slow, deep breaths and focusing on the present moment.
+
+Time: 07:25
+[Ethan Choi] is making a quick breakfast (e.g., toast, fruit)
+[Sophia Yang] is taking slow, deep breaths and focusing on the present moment.
+
+Time: 07:30
+[Ethan Choi] is making a quick breakfast (e.g., toast, fruit)
+[Sophia Yang] is writing down her thoughts and reflections from the previous day in her journal.
+
+Time: 07:35
+[Ethan Choi] is making a quick breakfast (e.g., toast, fruit)
+[Sophia Yang] is writing down her thoughts and reflections from the previous day in her journal.
+
+Time: 07:40
+[Ethan Choi] is making a quick breakfast (e.g., toast, fruit)
+[Sophia Yang] is writing down her thoughts and reflections from the previous day in her journal.
+
+Time: 07:45
+[Ethan Choi] is grabbing coffee and water for the shift
+[Ethan Choi]: Hey make, no worries about latte art practice today, just getting ready to fuel up for a busy shift!
+[Sophia Yang] is setting intentions for the day ahead and making a to-do list.
+[Sophia Yang]: Good morning make, hope your day is off to a great start! Just setting intentions for my writing session ahead.
+
+Time: 07:50
+[Ethan Choi] is reviewing the day's schedule and tasks at the caf��
+[Sophia Yang] is setting intentions for the day ahead and making a to-do list.
+
+Time: 07:55
+[Ethan Choi] is reviewing the day's schedule and tasks at the caf��
+[Ethan Choi]: Just reviewing my tasks and schedule for the caf��, make sure everything is on track for today's customers and events.
+[Sophia Yang] is wrapping up her morning meditation and journaling practice with a moment of gratitude.
+
+Time: 08:00
+[Ethan Choi] is turning on equipment and setting up the coffee station
+[Sophia Yang] is checking the current status of her reading selections and making any necessary adjustments.
+
+Time: 08:05
+[Ethan Choi] is turning on equipment and setting up the coffee station
+[Ethan Choi]: Just got the coffee station set up, now it's time to fire up the espresso machine and get ready for a busy morning!
+[Sophia Yang] is checking the current status of her reading selections and making any necessary adjustments.
+
+Time: 08:10
+[Ethan Choi] is reviewing customer orders and preparing for the morning rush
+[Sophia Yang] is checking the current status of her reading selections and making any necessary adjustments.
+
+Time: 08:15
+[Ethan Choi] is reviewing customer orders and preparing for the morning rush
+[Ethan Choi]: Just finished reviewing orders and prepping for the rush, now it's time to get into high gear and make some great coffee!
+[Sophia Yang] is preparing a list of potential promotional materials, such as posters, flyers, or social media graphics.
+
+Time: 08:20
+[Ethan Choi] is reviewing customer orders and preparing for the morning rush
+[Sophia Yang] is preparing a list of potential promotional materials, such as posters, flyers, or social media graphics.
+
+Time: 08:25
+[Ethan Choi] is greeting regular customers and making small talk
+[Sophia Yang] is preparing a list of potential promotional materials, such as posters, flyers, or social media graphics.
+
+Time: 08:30
+[Ethan Choi] is greeting regular customers and making small talk
+[Sophia Yang] is preparing a list of potential promotional materials, such as posters, flyers, or social media graphics.
+
+Time: 08:35
+[Ethan Choi] is greeting regular customers and making small talk
+[Ethan Choi]: Hey there, regulars! Great to see you all this morning. How's everyone doing today?
+[Sophia Yang] is brainstorming ideas for engaging the audience during the event, including possible Q&A sessions or discussions.
+[Sophia Yang]: Thanks for chatting with me, Ethan! I'll catch up with you later when you're on your break, have a great morning!
+
+Time: 08:40
+[Ethan Choi] is greeting regular customers and making small talk
+[Sophia Yang] is brainstorming ideas for engaging the audience during the event, including possible Q&A sessions or discussions.
+
+Time: 08:45
+[Ethan Choi] is prepping for creative menu experiments (e.g., setting up ingredients, equipment)
+[Sophia Yang] is brainstorming ideas for engaging the audience during the event, including possible Q&A sessions or discussions.
+[Sophia Yang]: Thanks for chatting with me, make. I think I've got some ideas now for engaging the audience at my book reading event.
+
+Time: 08:50
+[Ethan Choi] is prepping for creative menu experiments (e.g., setting up ingredients, equipment)
+[Ethan Choi]: Just getting everything set up for a fantastic day of coffee and community, thanks for chatting with me, make!
+[Sophia Yang] is sending out a request to local bookstores and literary organizations to promote the event through their channels.
+
+Time: 08:55
+[Ethan Choi] is taking orders and serving customers
+[Sophia Yang] is finalizing the event schedule and timeline, including setup and teardown details.
+
+Time: 09:00
+[Ethan Choi] is taking orders and serving customers
+[Sophia Yang] is reviewing her current writing project, making any necessary revisions, and checking for consistency.
+
+Time: 09:05
+[Ethan Choi] is taking orders and serving customers
+[Sophia Yang] is reviewing her current writing project, making any necessary revisions, and checking for consistency.
+
+Time: 09:10
+[Ethan Choi] is taking orders and serving customers
+[Ethan Choi]: Hey Sophia, just taking orders here. How's your writing project coming along? I'm looking forward to hearing about it at my 'Coffee & Community' event on April 10th!
+[Sophia Yang] is reviewing her current writing project, making any necessary revisions, and checking for consistency.
+
+Time: 09:15
+[Ethan Choi] is creating new latte art designs
+[Sophia Yang] is researching and gathering information on a specific topic related to her book reading event, including quotes or passages that may be relevant.
+
+Time: 09:20
+[Ethan Choi] is creating new latte art designs
+[Sophia Yang] is researching and gathering information on a specific topic related to her book reading event, including quotes or passages that may be relevant.
+
+Time: 09:25
+[Ethan Choi] is creating new latte art designs
+[Sophia Yang] is researching and gathering information on a specific topic related to her book reading event, including quotes or passages that may be relevant.
+
+Time: 09:30
+[Ethan Choi] is creating new latte art designs
+[Ethan Choi]: Just experimenting with some new latte art designs - love pushing the boundaries of creativity and beauty in every cup!
+[Sophia Yang] is researching and gathering information on a specific topic related to her book reading event, including quotes or passages that may be relevant.
+[Sophia Yang]: Just found a wonderful quote that resonates with my book's themes - can't wait to share it with everyone at the City Library on March 15th!
+
+Time: 09:35
+[Ethan Choi] is creating new latte art designs
+[Sophia Yang] is editing a section of her manuscript, focusing on grammar, syntax, and clarity.
+
+Time: 09:40
+[Ethan Choi] is experimenting with new coffee blends
+[Sophia Yang] is editing a section of her manuscript, focusing on grammar, syntax, and clarity.
+
+Time: 09:45
+[Ethan Choi] is experimenting with new coffee blends
+[Ethan Choi]: Getting close to perfecting a unique blend that combines notes of caramel and citrus - can't wait to share it with everyone!
+[Sophia Yang] is writing new content for the book reading event, such as introductions or summaries of the featured books.
+
+Time: 09:50
+[Ethan Choi] is experimenting with new coffee blends
+[Ethan Choi]: Really excited about Sophia's progress on her book reading event content - I'm looking forward to collaborating more!
+[Sophia Yang] is making final checks on the formatting and layout of her manuscript, ensuring that it is ready for submission.
+
+Time: 09:55
+[Ethan Choi] is experimenting with new coffee blends
+[Ethan Choi]: Almost there with this new coffee blend - can't wait for you to try it at our 'Coffee & Community' event!
+[Sophia Yang] is proofreading a section of her writing, catching any errors or typos that may have been missed during previous edits.
+
+Time: 10:00
+[Ethan Choi] is managing cash register and handling transactions
+[Ethan Choi]: Just finished handling a few transactions - everything's running smoothly here. Looking forward to seeing you soon, Sophia!
+[Sophia Yang] is reviewing her current writing project, making any necessary revisions, and checking for consistency with the event's theme.
+
+Time: 10:05
+[Ethan Choi] is managing cash register and handling transactions
+[Ethan Choi]: Need to wrap up these transactions before my shift ends - will catch up with you later, Sophia. Have a great day!
+[Sophia Yang] is reviewing her current writing project, making any necessary revisions, and checking for consistency with the event's theme.
+
+Time: 10:10
+[Ethan Choi] is managing cash register and handling transactions
+[Ethan Choi]: Time for me to focus on closing out these transactions - talk to you soon, Sophia, and good luck with your writing project!
+[Sophia Yang] is reviewing her current writing project, making any necessary revisions, and checking for consistency with the event's theme.
+
+Time: 10:15
+[Ethan Choi] is maintaining a clean and organized workspace
+[Sophia Yang] is reviewing her current writing project, making any necessary revisions, and checking for consistency with the event's theme.
+
+Time: 10:20
+[Ethan Choi] is maintaining a clean and organized workspace
+[Sophia Yang] is brainstorming ideas for engaging introductions and transitions between readings, considering the audience's interests and attention span.
+
+Time: 10:25
+[Ethan Choi] is taking short breaks to stretch and restock supplies
+[Ethan Choi]: Taking a quick break to restock supplies and stretch my legs - back to work soon!
+[Sophia Yang] is brainstorming ideas for engaging introductions and transitions between readings, considering the audience's interests and attention span.
+
+Time: 10:30
+[Ethan Choi] is **From 02:00 PM to 04:00 PM (Transitioning to administrative tasks)** 1) reviewing inventory levels and ordering supplies
+[Ethan Choi]: Got to get back to reviewing inventory levels before our supplier calls me later today - talk to you soon, Sophia!
+[Sophia Yang] is brainstorming ideas for engaging introductions and transitions between readings, considering the audience's interests and attention span.
+
+Time: 10:35
+[Ethan Choi] is **From 02:00 PM to 04:00 PM (Transitioning to administrative tasks)** 1) reviewing inventory levels and ordering supplies
+[Ethan Choi]: Okay, I'm wrapping up these transactions now - will catch up with you again when my shift ends, Sophia!
+[Sophia Yang] is brainstorming ideas for engaging introductions and transitions between readings, considering the audience's interests and attention span.
+
+Time: 10:40
+[Ethan Choi] is **From 02:00 PM to 04:00 PM (Transitioning to administrative tasks)** 1) reviewing inventory levels and ordering supplies
+[Ethan Choi]: Got to get back to reviewing inventory levels before our supplier calls me later today - talk to you soon, Sophia!
+[Sophia Yang] is brainstorming ideas for engaging introductions and transitions between readings, considering the audience's interests and attention span.
+
+Time: 10:45
+[Ethan Choi] is planning workshops for underprivileged youth
+[Ethan Choi]: Okay, I'm wrapping up these transactions now - will catch up with you again when my shift ends, Sophia!
+[Sophia Yang] is brainstorming ideas for engaging introductions and transitions between readings, considering the audience's interests and attention span.
+
+Time: 10:50
+[Ethan Choi] is planning workshops for underprivileged youth
+[Ethan Choi]: Time's running short, Sophia - I really need to finalize these workshop plans before my next meeting. Talk soon!
+[Sophia Yang] is creating a detailed outline of the event's schedule, including setup, welcome remarks, reading sessions, and Q&A periods.
+
+Time: 10:55
+[Ethan Choi] is planning workshops for underprivileged youth
+[Ethan Choi]: Got to go, Sophia - just finalized the event schedule with your input - thanks for your help!
+[Sophia Yang] is creating a detailed outline of the event's schedule, including setup, welcome remarks, reading sessions, and Q&A periods.
+
+Time: 11:00
+[Ethan Choi] is planning workshops for underprivileged youth
+[Ethan Choi]: Later, Sophia - appreciate your collaboration on the event schedule and I'll catch up with you soon!
+[Sophia Yang] is creating a detailed outline of the event's schedule, including setup, welcome remarks, reading sessions, and Q&A periods.
+
+Time: 11:05
+[Ethan Choi] is planning workshops for underprivileged youth
+[Ethan Choi]: Alright, Sophia - need to wrap this up now, thanks for your help on the event schedule and I'll talk to you later!
+[Sophia Yang] is creating a detailed outline of the event's schedule, including setup, welcome remarks, reading sessions, and Q&A periods.
+
+Time: 11:10
+[Ethan Choi] is communicating with suppliers about new coffee bean shipments
+[Ethan Choi]: Thanks again, Sophia - I really appreciate your input on the event schedule, talk to you soon!
+[Sophia Yang] is creating a detailed outline of the event's schedule, including setup, welcome remarks, reading sessions, and Q&A periods.
+
+Time: 11:15
+[Ethan Choi] is communicating with suppliers about new coffee bean shipments
+[Ethan Choi]: I'm grateful for your help with the event schedule, Sophia - have a great day and catch up soon!
+[Sophia Yang] is creating a detailed outline of the event's schedule, including setup, welcome remarks, reading sessions, and Q&A periods.
+
+Time: 11:20
+[Ethan Choi] is communicating with suppliers about new coffee bean shipments
+[Sophia Yang] is researching and selecting relevant quotes or passages to be shared with attendees before the event, highlighting the significance of each selection.
+
+Time: 11:25
+[Ethan Choi] is communicating with suppliers about new coffee bean shipments
+[Sophia Yang] is researching and selecting relevant quotes or passages to be shared with attendees before the event, highlighting the significance of each selection.
+[Sophia Yang]: I'll talk to you later, Ethan, when I'm taking a break - have a great day and focus on those coffee bean shipments!
+
+Time: 11:30
+[Ethan Choi] is updating social media with promotions and events
+[Sophia Yang] is researching and selecting relevant quotes or passages to be shared with attendees before the event, highlighting the significance of each selection.
+[Sophia Yang]: I'll talk to you later, Ethan, when I'm taking a break - have a great day and focus on those coffee bean shipments!
+
+Time: 11:35
+[Ethan Choi] is updating social media with promotions and events
+[Sophia Yang] is researching and selecting relevant quotes or passages to be shared with attendees before the event, highlighting the significance of each selection.
+[Sophia Yang]: I'll talk to you later, Ethan, when I'm taking a break - have a great day and focus on those social media updates!
+
+Time: 11:40
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Sophia Yang] is drafting a concise description of the book reading event for promotional purposes, emphasizing its unique aspects and benefits.
+[Sophia Yang]: I'll talk to you later, Ethan, when I'm taking a break - have a great day and focus on those social media updates!
+
+Time: 11:45
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Sophia Yang] is drafting a concise description of the book reading event for promotional purposes, emphasizing its unique aspects and benefits.
+
+Time: 11:50
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Ethan Choi]: I'm grateful for your help with the event schedule, Sophia - have a great day and catch up soon!
+[Sophia Yang] is finalizing the layout and design of promotional materials, including posters, flyers, and social media graphics, to effectively communicate the event's message.
+[Sophia Yang]: I'll talk to you later, Ethan, when I'm taking a break - have a great day and focus on those social media updates!
+
+Time: 11:55
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Sophia Yang] is reviewing and revising all written content for accuracy, clarity, and impact, ensuring that it aligns with the event's goals and objectives.
+
+Time: 12:00
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Ethan Choi]: I'm grateful for your help with the event schedule, Sophia - have a great day and catch up soon!
+[Sophia Yang] is checking and responding to any urgent messages or emails related to the book reading event.
+[Sophia Yang]: I'll talk to you later, Ethan, when I'm taking a break - have a great day and focus on those social media updates!
+
+Time: 12:05
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Sophia Yang] is checking and responding to any urgent messages or emails related to the book reading event.
+
+Time: 12:10
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Ethan Choi]: I'm grateful for your help with the event schedule, Sophia - have a great day and catch up soon!
+[Sophia Yang] is eating a nutritious lunch and taking a short power nap to recharge.
+
+Time: 12:15
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Sophia Yang] is eating a nutritious lunch and taking a short power nap to recharge.
+
+Time: 12:20
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Ethan Choi]: I've got to get back to balancing these books, Sophia - talk to you later about the event schedule!
+[Sophia Yang] is eating a nutritious lunch and taking a short power nap to recharge.
+[Sophia Yang]: I'll talk to you later, Ethan - just needed this lunch break to recharge before getting back into writing mode!
+
+Time: 12:25
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Sophia Yang] is eating a nutritious lunch and taking a short power nap to recharge.
+
+Time: 12:30
+[Ethan Choi] is reviewing financial reports and balancing the books
+[Ethan Choi]: I've got to get back to balancing these books, Sophia - talk to you later about the event schedule!
+[Sophia Yang] is meditating for 5 minutes to clear her mind and refocus on the task at hand.
+
+Time: 12:35
+[Ethan Choi] is reviewing financial reports and balancing the books
+[['sleeping', 300], ['Waking up at 5:00 AM', 0], ['Stretching and getting dressed for jogging', 10], ['Jogging around the neighborhood to get some exercise', 20], ['Taking a short break to hydrate and catch breath', 5], ['Continuing jogging at a moderate pace', 15], ['Starting meditation session to clear mind and focus', 0], ['Focusing on deep breathing exercises during meditation', 5], ('Bringing mindfulness to the present moment and letting go of distractions', 5), ['Waking up at 6:00 AM', 0], ['Getting dressed for jogging', 5], ['Jogging around the neighborhood to get some exercise', 10], ['Taking a short break to hydrate and catch breath', 5], ['Continuing jogging at a moderate pace', 15], ['Finding a quiet spot for meditation', 5], ['Starting meditation session to clear mind and focus', 0], ['Focusing on deep breathing exercises during meditation', 10], ['Bringing mindfulness to the present moment and letting go of distractions', 5], ('Ending meditation session and getting ready for work', 5), ['Arriving at the caf�� and clocking in', 10], ['Reviewing the daily schedule and prioritizing tasks', 15], ['Preparing for the morning rush by restocking supplies and cleaning equipment', 20], ['Conducting a quick walk-through of the caf�� to ensure everything is ready for customers', 5], ['Starting a pot of coffee and preparing the espresso machine for the morning rush', 0], ['Reviewing customer orders from the previous day and making any necessary adjustments', 5], ['Taking a moment to review the menu and specials board to ensure accuracy', 0], ('Final preparations before opening the caf�� to customers', 5), ['Preparing the espresso machine and brewing coffee', 10], ['Reviewing customer orders and taking drink requests', 15], ['Steaming milk for lattes and cappuccinos', 20], ['Preparing specialty drinks, such as frappes and smoothies', 25], ['Taking orders and operating the cash register', 30], ['Maintaining a clean and organized workspace, including wiping down surfaces and sweeping the floor', 20], ['Preparing for the lunch rush by restocking supplies and prepping food items', 25], ['Handling customer complaints or issues, such as a damaged drink or incorrect order', 15], ['Taking a short break to stretch and recharge', 10], ['Preparing for the next wave of customers by refilling coffee beans and adjusting equipment settings', 20], ['Operating the point-of-sale system and managing customer transactions', 25], ['Maintaining a positive and welcoming atmosphere, including engaging with regular customers and offering recommendations', 30], ['Preparing for the afternoon rush by restocking supplies and prepping food items', 20], ['Handling customer requests for modifications or substitutions to their drinks', 15], ['Taking a short break to stretch and recharge', 10], ['Reviewing inventory levels and anticipating needs for the rest of the day', 20], ['Preparing for the end of the morning rush by cleaning equipment and wiping down surfaces', 25], ('Final preparations before transitioning to administrative tasks at 2:00 PM', 25), ['Checking inventory levels and anticipating needs for the day', 10], ['Reviewing supplier communications and responding to any urgent messages', 15], ['Preparing for workshop planning by reviewing schedules and participant feedback', 20], ['Managing caf�� social media accounts by posting updates and engaging with followers', 25], ["Reviewing financial reports and updating the caf��'s accounting system", 30], ['Preparing for supplier communications by drafting emails and messages', 15], ('Taking a short break to stretch and recharge', 5), ['Checking inventory levels and anticipating needs for the day.', 10], ['Reviewing supplier communications and responding to any urgent messages.', 15], ['Preparing for workshop planning by reviewing schedules and participant feedback.', 20], ['Managing caf�� social media accounts by posting updates and engaging with followers.', 25], ["Reviewing financial reports and updating the caf��'s accounting system.", 30], ['Preparing for supplier communications by drafting emails and messages.', 15], ["Taking a short break to stretch and recharge. (Note: This is already scheduled from 3:55 PM to 4:00 PM, so I'll skip it) 8) Finalizing administrative tasks for the day by reviewing completed work and making sure everything is up-to-date.", 10], ('Saving all files and closing out of the accounting software.', -65), ['Saving all files and closing out of the accounting software.', 10], ['Reviewing inventory levels and anticipating needs for the day.', 15], ['Responding to any urgent supplier communications.', 20], ['Finalizing administrative tasks for the day by reviewing completed work and making sure everything is up-to-date.', 10], ("Saving all files and closing out of the accounting software. (Note: This task was already listed, so I'll skip it) 6) Taking a short break to stretch and recharge before heading home.", 5), ['Reviewing inventory levels and anticipating needs for the day.', 15], ['Responding to any urgent supplier communications.', 20], ["Checking the caf��'s social media accounts for any messages or comments.", 10], ["Updating the caf��'s calendar with upcoming events and workshops.", 10], ["Saving all files and closing out of the accounting software. (Note: This task was already listed, so I'll skip it) **From 7:00 PM ~ 8:00 PM (60 minutes)** 1) Planning for the next day's workshop on brewing techniques.", 30], ['Creating a list of materials needed for the workshop.', 20], ["Reviewing the caf��'s menu and considering new offerings.", 30], ['Brainstorming ideas for a future workshop on coffee bean sourcing.', 20], ("Checking the caf��'s email for any important messages or updates.", 25), ["Checking the caf��'s email for any important messages or updates.", 20], ['Responding to any urgent emails from suppliers.', 5], ["Reviewing the caf��'s inventory levels and anticipating needs for the next day.", 15], ['Creating a list of materials needed for the upcoming "Coffee & Community" fundraiser.', 20], ['Brainstorming ideas for eco-friendly merchandise designs.', 10], ["Checking the neighborhood artists' schedules for live music availability.", 5], ['Planning a social media post for the upcoming fundraiser.', 10], ['Continuing to work on urban gardening project tonight.', 30], ["Researching sustainable agriculture practices for the caf��'s coffee beans.", 20], ('Drafting a blog post about the benefits of ethically sourced coffee.', -75), ["Researching sustainable irrigation systems for the caf��'s garden.", 15], ["Brainstorming ideas for a vertical garden design for the caf��'s patio.", 20], ['Creating a list of materials needed for the upcoming gardening workshop.', 25], ['Drafting a blog post about the benefits of urban gardening for mental health.', 30], ["Making a note to purchase more compost tea bags for the caf��'s garden.", 10], ['Checking the weather forecast for the upcoming weekend and planning accordingly.', 15], ('Finalizing the layout of the urban gardening project display at the "Coffee & Community" fundraiser.', -55), ['Setting his alarm clock for 5:30 AM.', 10], ['Making sure the coffee machine is turned off and the caf�� is secure.', 15], ['Changing into comfortable pajamas and brushing his teeth.', 20], ("Getting into bed and getting settled for a good night's sleep.", 15)]
+[['sleeping', 360], ['Checking phone notifications and responding to urgent messages.', 5], ['Stretching and getting out of bed.', 10], ['Brushing teeth and washing face.', 15], ['Combing hair and dressing up for the day.', 20], ['Having a glass of water to hydrate after waking up.', 5], ['Reviewing schedule for the day and prioritizing tasks.', 10], ('Meditating or practicing mindfulness for 5 minutes.', -5), ['Making coffee or tea and getting a glass of water.', 5], ['Putting on some calming music while eating breakfast.', 5], ['Eating breakfast, such as scrambled eggs and toast.', 15], ['Reviewing writing project progress, including checking notes and outlines.', 20], ['Checking email and responding to any urgent messages related to the writing project.', 10], ("Planning out the day's tasks, including setting priorities for writing and editing.", 5), ['Checking email and responding to any urgent messages related to the writing project.', 5], ['Reviewing notes and outlines, making sure everything is organized and ready to go.', 10], ['Setting up writing software or tools, such as Scrivener or Google Docs.', 5], ["Writing a brief summary of the day's goals and objectives for the project.", 15], ['Reviewing and updating the writing schedule to ensure progress is being made towards deadlines.', 10], ('Making any final adjustments to the writing space, such as turning off notifications or finding a comfortable seating arrangement.', 15), ['Writing a new paragraph for Chapter 3, focusing on character development.', 15], ["Reviewing and editing the previous day's work, making sure it meets the desired quality standards.", 20], ['Researching and gathering information on a specific topic related to the project, using online resources and books.', 10], ('Outlining the next section of the project, breaking down complex ideas into manageable chunks.', 15), ['Packing a small bag with essentials, such as phone charger and wallet.', 5], ['Checking the weather forecast and dressing accordingly.', 5], ['Writing down the invitation message to Ethan on a piece of paper or in an email draft.', 10], ['Walking to the cafe, taking a short route through the neighborhood.', 15], ('Arriving at the cafe and waiting for Ethan to arrive, possibly ordering a coffee while waiting.', 25), ['Arriving at the cafe and spotting Ethan, who is already seated at a table.', 5], ["Walking over to Ethan's table, trying not to draw attention to herself.", 5], ['Sitting down across from Ethan and smiling warmly, making small talk before inviting him to the party.', 10], ['Taking a deep breath and extending an invitation to Ethan, explaining the details of the party.', 15], ("Responding to Ethan's questions about the party and reassuring him that he's welcome to attend.", 25), ['Gathering relevant notes and research materials related to the writing project, including books, articles, and online resources.', 10], ['Organizing the notes and materials into a coherent outline, identifying key themes and ideas to explore.', 15], ['Reviewing and editing previous drafts of the writing project, making revisions and suggestions for improvement.', 20], ('Conducting additional research on specific topics related to the writing project, taking detailed notes and summarizing findings.', 15), ['Reviewing notes and research materials related to the writing project, identifying key areas to focus on.', 10], ['Organizing research materials into a coherent outline, identifying key themes and ideas to explore.', 15], ['Conducting additional research on specific topics related to the writing project, taking detailed notes and summarizing findings.', 30], ['Analyzing and evaluating the relevance of new information to the writing project, making connections between ideas.', 25], ['Developing a plan for incorporating new research into the writing project, outlining potential changes and revisions.', 20], ['Reviewing and editing previous drafts of the writing project, making revisions and suggestions for improvement.', 30], ['Conducting a literature review to identify relevant sources and studies related to the writing project.', 25], ['Taking detailed notes on key findings and insights from research materials, summarizing main points.', 20], ('Reviewing and refining the outline for the writing project, making sure it aligns with goals and objectives.', 5), ['Reviewing and refining the outline for the writing project, making sure it aligns with goals and objectives.', 10], ['Conducting a literature review to identify relevant sources and studies related to the writing project.', 20], ['Developing a detailed plan for organizing the content of the writing project, including sections and subheadings.', 25], ['Writing the introduction to the writing project, setting the tone and establishing the main argument.', 30], ['Conducting research on key topics related to the writing project, taking notes and summarizing findings.', 20], ['Creating an outline for the body of the writing project, including main points and supporting evidence.', 25], ['Writing several paragraphs of the body of the writing project, developing key arguments and supporting them with evidence.', 35], ['Reviewing and editing previous drafts of the writing project, making revisions and suggestions for improvement.', 20], ('Finalizing the outline and content of the writing project, preparing it for further review and revision.', -65), ['Arriving at the cafe and greeting her friends.', 5], ['Ordering food and drinks for herself and her friends.', 10], ['Catching up with her friends about their week, discussing personal updates.', 15], ['Sharing stories and experiences from the past few days, laughing together.', 20], ['Discussing plans for the future, making new commitments to each other.', 10], ('Paying the bill and saying goodbye to her friends, promising to meet again soon.', 0), ['Checking the guest list and making any last-minute additions or changes.', 5], ['Preparing a playlist of music for the party, selecting songs that will appeal to her guests.', 10], ['Setting up tables, chairs, and decorations in the living room and dining area.', 15], ["Preparing snacks and appetizers for the party, such as hors d'oeuvres or finger foods.", 15], ['Confirming with her friends that they are still coming, sending out reminders if necessary.', 10], ("Finalizing the timeline for the evening's events, including when food will be served and games will begin.", 5), ['Reviewing her notes and making sure all tasks are completed.', 10], ['Saving and backing up her work on her computer and external hard drive.', 5], ['Closing out any open documents or projects, ensuring a clean workspace for the next day.', 5], ['Taking a few minutes to review her progress and reflect on what she accomplished during the day.', 10], ['Making a to-do list for the next day, including any tasks that need to be completed or followed up on.', 15], ["Double-checking her schedule for the next day to ensure she's prepared and knows what needs to be done.", 10], ('Wrapping up any remaining tasks or research before calling it a night.', 5), ['Checking the guest list and making any last-minute additions or changes.', 5], ['Confirming with Ethan that he can attend the party and discussing the details of his invitation.', 10], ['Reviewing the menu for the party and deciding on any final preparations for food and drinks.', 15], ['Preparing a playlist or selecting music for the party to set the atmosphere.', 5], ('Setting up the decorations and making sure everything is ready for when guests arrive.', 25), ['Finalizing the playlist for the party by adding a few more songs.', 5], ['Setting up a photo booth area with props and decorations.', 15], ['Preparing a signature drink for the party, such as a cocktail or punch.', 10], ['Taking a short break to relax and recharge before finishing preparations.', 5], ['Reviewing the party schedule and making any last-minute adjustments.', 15], ('Relaxing with some calming music or a warm bath to unwind after a long day of work and preparation.', 10), ['Turning off all lights and electronics in the house, including the TV and computer.', 5], ['Brushing teeth and washing face to prepare for bed.', 10], ['Changing into comfortable pajamas and getting into bed.', 5], ['Setting alarm clock for morning and making sure phone is on silent mode.', 5], ['Reading a book or listening to calming music to wind down before sleep.', 15], ['Getting comfortable under the blankets and closing eyes, preparing for sleep.', 10], ('Drifting off to sleep, feeling relaxed and refreshed after a long day of work and preparation.', 10)]

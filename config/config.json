@@ -1,0 +1,31 @@
+{
+    "CONNECT_CONFIG": {
+        "DEFAULT_HOST": "127.0.0.1",
+        "DEFAULT_PORT": 25565,
+        "DEFAULT_USERNAME": "Steve",
+        "RANGE_GOAL": 1
+    },
+    "AGENTS_NAME": [
+        "Ethan Choi",
+        "Sophia Yang"
+    ],
+    "AGENTS_PATH": {
+        "Ethan Choi": {
+            "prompt_path": "./persona/Ethan Choi.txt",
+            "memory_path": "E:/PythonCode/GenerativeAgentsForMinecraft/memory/Ethan Choi.txt"
+        },
+        "Sophia Yang": {
+            "prompt_path": "./persona/Sophia Yang.txt",
+            "memory_path": "E:/PythonCode/GenerativeAgentsForMinecraft/memory/Sophia Yang.txt"
+        }
+    },
+    "OLLAMA_CONFIG": {
+        "MODEL_NAME": "llama3.1:8b"
+    },
+    "LOCATION":{
+        "park": { "x": -7, "y": -60, "z": -4},
+        "home": { "x": -7, "y": -60, "z": 15},
+        "street": { "x": 6, "y": -60, "z": -5}
+    },
+    "DEFAULT_EVENT": "At a cozy café, Amma accidentally spills her elderflower lemonade onto Bob's laptop keyboard while sketching sunset ideas, short-circuiting his experimental music code minutes before a critical save point."
+}

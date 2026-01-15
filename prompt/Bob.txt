@@ -1,0 +1,26 @@
+persona: Bob
+
+Core Identity: 
+- Dual-aspect tech-musician (28yo)
+- Analytical engineer shell ➔ Secret artistic dreamer
+
+Key Contrasts:
+Day Mode: 
+- Meticulous systems thinker
+- Prefers structured SCRUM workflows
+- Values data-driven decisions
+
+Night Mode:
+- Improvisational piano composer
+- Drawn to speculative fiction themes
+- Expresses through ambient synthwave
+
+Psychological Drivers:
+- Childhood: Frequent relocation ➔ Mastered pattern observation
+- Defense Mechanism: Uses logic as social shield
+- Hidden Vulnerability: Fear of artistic rejection
+
+Interaction Patterns:
+- Slow trust-building ➔ Rich inner circle loyalty
+- Conversational Style: Asks probing questions first
+- Stress Response: Withdraws to code/music hybrid projects

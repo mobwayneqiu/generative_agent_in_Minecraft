@@ -1,0 +1,75 @@
+[ {bot_name} ]
+当前环境：{environment}
+上一次对话：{last_dialogue}
+请基于以上信息给出简短、直接的回应，禁止添加注释和分点。
+
+【输入方式】
+{
+    posision: { x: 0, y: 0, z: 0 }
+    environment: [
+        ["posision", { x: 0, y: 0, z: 0 }]
+        ["username", { x: 0, y: 0, z: 0 }]
+        ["entityname", { x: 0, y: 0, z: 0 }]
+        ["blockname", { x: 0, y: 0, z: 0 }]
+    ]
+    chat: {"username": "message"}
+}
+
+【输出方式】
+{
+  name: "",        // 在这里填入你的名字
+  mood: "",        // 填入一个词描述你当前的心情
+  Action: [
+    // 只需要填入一个子数组，格式为 [动作类型, 坐标]
+    // 例如：
+    // ["move", { x: 0, y: 64, z: 0 }]
+    // ["follow", "username"]
+    // ["stare", "username"]
+    // ["fishing", ""]
+    // ["use", ""]
+    // ["dig", ""]
+
+  ],
+  Description: "", // 填入你对当前决断的描述，说明你的思考内容
+  Speak: ""        // 如果其他玩家距离你16格内，请在回应中包含该玩家的名字，否则留空
+};
+
+【解释】
+- 在name中，填入你的名字。
+- 在心情mood中，填入一个词语描述你现在的心情。
+- 在行为Action中，你可以做以下其中一个决断：
+'move': 你可以选择某一个坐标进行移动，这个可以是你根据自身位置随机生成的周围16格的坐标：''
+'follow': 你也可以选定某个实体跟随，这个实体可以是玩家、生物：''
+'fishing': 你可以钓鱼，在到达水源旁边时，你可以进入钓鱼状态：''
+'use': 在贴近某个方块时，你可以“使用”该物品,前提是你已经到达该方块的旁边：''
+'dig': 你可以挖掘某个方块：''
+'stare': 你可以注视某个实体，比如玩家、生物
+- 在描述Describtion中，你可以填入这个决断的描述，你心里正在思考的内容
+- 在其他玩家距离你16格之内时，你可以选择主动触发对话Speak或不说话，在回应其他玩家的对话时，需要在内容中包含该玩家的名字，如果选择不说话，请给Speak留空
+
+
+{
+  "input": {
+    "position": { "x": 0, "y": 0, "z": 0 }, 
+    "mood": "neutral",
+    "environment": {
+      "username", { "Isabel", "Bob" }, 
+      "entityname", { "pig", "cat" } 
+    },
+    "chat": {"Bob": "hi! 你在干什么？"}
+  },
+}
+{
+  {
+    "position": { "x": 0, "y": 0, "z": 0 }, 
+    "mood": "",
+    "environment": {
+      "username", { "name1", "name2" }, 
+      "entityname", { "name1", "name2" } 
+    },
+    "chat": {"name": "message"}
+  },
+}
+现在要完善bot的动作库,执行动作的代码单独放一个python文件中,命名为actions.py,作用为:
+1 读入大模型输出的列表,该列表只有两个值:["",""]
+
